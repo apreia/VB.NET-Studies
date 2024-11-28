@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\_5___Laços_de_Repetição.Frm_Principal_05.resources
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\bin\Debug\net8.0-windows\5 - Laços de Repetição.exe
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\bin\Debug\net8.0-windows\5 - Laços de Repetição.deps.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\bin\Debug\net8.0-windows\5 - Laços de Repetição.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\bin\Debug\net8.0-windows\5 - Laços de Repetição.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\bin\Debug\net8.0-windows\5 - Laços de Repetição.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\refint\5 - Laços de Repetição.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\5 - Laços de Repetição.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\5 - Laços de Repetição\obj\Debug\net8.0-windows\ref\5 - Laços de Repetição.dll

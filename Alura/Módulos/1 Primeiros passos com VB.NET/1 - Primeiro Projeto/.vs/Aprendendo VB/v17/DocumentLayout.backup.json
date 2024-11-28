@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0DE1C5-BB65-4117-A6BC-6F1875AF6885}|0 - Projeto Principal\\0 - Projeto Principal.vbproj|c:\\users\\imp-ti-04\\source\\repos\\1 - primeiro projeto\\0 - projeto principal\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4E0DE1C5-BB65-4117-A6BC-6F1875AF6885}|0 - Projeto Principal\\0 - Projeto Principal.vbproj|solutionrelative:0 - projeto principal\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0DE1C5-BB65-4117-A6BC-6F1875AF6885}|0 - Projeto Principal\\0 - Projeto Principal.vbproj|c:\\users\\imp-ti-04\\source\\repos\\1 - primeiro projeto\\0 - projeto principal\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4E0DE1C5-BB65-4117-A6BC-6F1875AF6885}|0 - Projeto Principal\\0 - Projeto Principal.vbproj|solutionrelative:0 - projeto principal\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Principal.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\0 - Projeto Principal\\Frm_Principal.vb",
+              "RelativeDocumentMoniker": "0 - Projeto Principal\\Frm_Principal.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\0 - Projeto Principal\\Frm_Principal.vb",
+              "RelativeToolTip": "0 - Projeto Principal\\Frm_Principal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T20:27:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Principal.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\0 - Projeto Principal\\Frm_Principal.vb",
+              "RelativeDocumentMoniker": "0 - Projeto Principal\\Frm_Principal.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\1 - Primeiro Projeto\\0 - Projeto Principal\\Frm_Principal.vb [Projeto]",
+              "RelativeToolTip": "0 - Projeto Principal\\Frm_Principal.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T20:27:38.979Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

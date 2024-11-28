@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net8.0-windows\1 - Primeiro Projeto.exe
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net8.0-windows\1 - Primeiro Projeto.deps.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net8.0-windows\1 - Primeiro Projeto.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net8.0-windows\1 - Primeiro Projeto.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\net8.0-windows\1 - Primeiro Projeto.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\refint\1 - Primeiro Projeto.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\1 - Primeiro Projeto.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\ref\1 - Primeiro Projeto.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\net8.0-windows\_1___Primeiro_Projeto.Frm_TelaPrincipal_01.resources

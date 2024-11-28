@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\bin\Debug\net8.0-windows\3 - Manipulando Textos.exe
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\bin\Debug\net8.0-windows\3 - Manipulando Textos.deps.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\bin\Debug\net8.0-windows\3 - Manipulando Textos.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\bin\Debug\net8.0-windows\3 - Manipulando Textos.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\bin\Debug\net8.0-windows\3 - Manipulando Textos.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\refint\3 - Manipulando Textos.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.pdb
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\3 - Manipulando Textos.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\ref\3 - Manipulando Textos.dll
+C:\Users\IMP-TI-04\source\repos\1 - Primeiro Projeto\3 - Manipulando Textos\obj\Debug\net8.0-windows\_3___Manipulando_Textos.Frm_Principal_03.resources
