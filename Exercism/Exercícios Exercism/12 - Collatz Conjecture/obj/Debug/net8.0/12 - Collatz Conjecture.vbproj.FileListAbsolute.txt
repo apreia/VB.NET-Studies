@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\bin\Debug\net8.0\12 - Collatz Conjecture.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\bin\Debug\net8.0\12 - Collatz Conjecture.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\bin\Debug\net8.0\12 - Collatz Conjecture.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\bin\Debug\net8.0\12 - Collatz Conjecture.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\bin\Debug\net8.0\12 - Collatz Conjecture.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\refint\12 - Collatz Conjecture.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\12 - Collatz Conjecture.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\12 - Collatz Conjecture\obj\Debug\net8.0\ref\12 - Collatz Conjecture.dll

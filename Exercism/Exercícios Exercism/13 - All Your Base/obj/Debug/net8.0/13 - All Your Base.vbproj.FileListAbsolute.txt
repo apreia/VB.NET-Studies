@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\bin\Debug\net8.0\13 - All Your Base.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\bin\Debug\net8.0\13 - All Your Base.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\bin\Debug\net8.0\13 - All Your Base.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\bin\Debug\net8.0\13 - All Your Base.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\bin\Debug\net8.0\13 - All Your Base.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\refint\13 - All Your Base.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\13 - All Your Base.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\13 - All Your Base\obj\Debug\net8.0\ref\13 - All Your Base.dll

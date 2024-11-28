@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\bin\Debug\net8.0\9 - Bob.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\bin\Debug\net8.0\9 - Bob.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\bin\Debug\net8.0\9 - Bob.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\bin\Debug\net8.0\9 - Bob.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\bin\Debug\net8.0\9 - Bob.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\refint\9 - Bob.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\9 - Bob.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\9 - Bob\obj\Debug\net8.0\ref\9 - Bob.dll

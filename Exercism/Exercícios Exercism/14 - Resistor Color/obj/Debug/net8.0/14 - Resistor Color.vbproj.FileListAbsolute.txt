@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\bin\Debug\net8.0\14 - Resistor Color.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\bin\Debug\net8.0\14 - Resistor Color.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\bin\Debug\net8.0\14 - Resistor Color.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\bin\Debug\net8.0\14 - Resistor Color.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\bin\Debug\net8.0\14 - Resistor Color.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\refint\14 - Resistor Color.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\14 - Resistor Color.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\14 - Resistor Color\obj\Debug\net8.0\ref\14 - Resistor Color.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\bin\Debug\net8.0\5 - Anagram.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\bin\Debug\net8.0\5 - Anagram.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\bin\Debug\net8.0\5 - Anagram.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\bin\Debug\net8.0\5 - Anagram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\bin\Debug\net8.0\5 - Anagram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\refint\5 - Anagram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\5 - Anagram.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\5 - Anagram\obj\Debug\net8.0\ref\5 - Anagram.dll

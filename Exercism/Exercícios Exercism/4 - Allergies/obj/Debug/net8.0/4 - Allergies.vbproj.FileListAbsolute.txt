@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\bin\Debug\net8.0\4 - Allergies.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\bin\Debug\net8.0\4 - Allergies.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\bin\Debug\net8.0\4 - Allergies.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\bin\Debug\net8.0\4 - Allergies.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\bin\Debug\net8.0\4 - Allergies.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\refint\4 - Allergies.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\4 - Allergies.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\4 - Allergies\obj\Debug\net8.0\ref\4 - Allergies.dll

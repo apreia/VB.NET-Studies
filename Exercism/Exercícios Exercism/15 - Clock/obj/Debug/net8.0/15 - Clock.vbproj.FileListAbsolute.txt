@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\bin\Debug\net8.0\15 - Clock.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\bin\Debug\net8.0\15 - Clock.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\bin\Debug\net8.0\15 - Clock.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\bin\Debug\net8.0\15 - Clock.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\bin\Debug\net8.0\15 - Clock.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\refint\15 - Clock.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\15 - Clock.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\15 - Clock\obj\Debug\net8.0\ref\15 - Clock.dll

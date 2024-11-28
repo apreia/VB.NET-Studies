@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\bin\Debug\net8.0\1 - Hello World.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\bin\Debug\net8.0\1 - Hello World.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\bin\Debug\net8.0\1 - Hello World.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\bin\Debug\net8.0\1 - Hello World.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\bin\Debug\net8.0\1 - Hello World.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\refint\1 - Hello World.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\1 - Hello World.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\Exercícios Exercism\obj\Debug\net8.0\ref\1 - Hello World.dll

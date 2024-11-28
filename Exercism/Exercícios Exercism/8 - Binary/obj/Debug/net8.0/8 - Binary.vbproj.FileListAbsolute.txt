@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\bin\Debug\net8.0\8 - Binary.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\bin\Debug\net8.0\8 - Binary.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\bin\Debug\net8.0\8 - Binary.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\bin\Debug\net8.0\8 - Binary.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\bin\Debug\net8.0\8 - Binary.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\refint\8 - Binary.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\8 - Binary.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\8 - Binary\obj\Debug\net8.0\ref\8 - Binary.dll

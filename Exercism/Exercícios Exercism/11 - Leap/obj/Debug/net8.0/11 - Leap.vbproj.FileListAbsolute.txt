@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\bin\Debug\net8.0\11 - Leap.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\bin\Debug\net8.0\11 - Leap.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\bin\Debug\net8.0\11 - Leap.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\bin\Debug\net8.0\11 - Leap.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\bin\Debug\net8.0\11 - Leap.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\refint\11 - Leap.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\11 - Leap.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\11 - Leap\obj\Debug\net8.0\ref\11 - Leap.dll

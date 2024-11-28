@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\bin\Debug\net8.0\7 - Atbash Cipher.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\bin\Debug\net8.0\7 - Atbash Cipher.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\bin\Debug\net8.0\7 - Atbash Cipher.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\bin\Debug\net8.0\7 - Atbash Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\bin\Debug\net8.0\7 - Atbash Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\refint\7 - Atbash Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\7 - Atbash Cipher.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\7 - Atbash Cipher\obj\Debug\net8.0\ref\7 - Atbash Cipher.dll

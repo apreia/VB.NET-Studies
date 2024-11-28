@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\bin\Debug\net8.0\3 - Reverse String.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\bin\Debug\net8.0\3 - Reverse String.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\bin\Debug\net8.0\3 - Reverse String.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\bin\Debug\net8.0\3 - Reverse String.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\bin\Debug\net8.0\3 - Reverse String.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\refint\3 - Reverse String.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\3 - Reverse String.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\3 - Reverse String\obj\Debug\net8.0\ref\3 - Reverse String.dll

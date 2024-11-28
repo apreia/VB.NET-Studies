@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\bin\Debug\net8.0\6 - Accumulate.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\bin\Debug\net8.0\6 - Accumulate.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\bin\Debug\net8.0\6 - Accumulate.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\bin\Debug\net8.0\6 - Accumulate.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\bin\Debug\net8.0\6 - Accumulate.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\refint\6 - Accumulate.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\6 - Accumulate.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\6 - Accumulate\obj\Debug\net8.0\ref\6 - Accumulate.dll

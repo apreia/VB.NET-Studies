@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\15 - clock\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|solutionrelative:15 - clock\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\15 - clock\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|solutionrelative:15 - clock\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Module1.vb",
+              "RelativeDocumentMoniker": "15 - Clock\\Module1.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Module1.vb",
+              "RelativeToolTip": "15 - Clock\\Module1.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-28T13:02:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Program.vb",
+              "RelativeDocumentMoniker": "15 - Clock\\Program.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Program.vb",
+              "RelativeToolTip": "15 - Clock\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-28T13:02:39.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

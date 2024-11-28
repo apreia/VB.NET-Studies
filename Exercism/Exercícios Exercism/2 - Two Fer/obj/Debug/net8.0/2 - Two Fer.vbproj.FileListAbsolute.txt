@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\bin\Debug\net8.0\2 - Two Fer.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\bin\Debug\net8.0\2 - Two Fer.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\bin\Debug\net8.0\2 - Two Fer.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\bin\Debug\net8.0\2 - Two Fer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\bin\Debug\net8.0\2 - Two Fer.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\refint\2 - Two Fer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\2 - Two Fer.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\2 - Two Fer\obj\Debug\net8.0\ref\2 - Two Fer.dll
