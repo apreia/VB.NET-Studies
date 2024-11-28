@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\_2___ByteBank.Frm_Principal_02.resources
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\net8.0-windows\2 - ByteBank.exe
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\net8.0-windows\2 - ByteBank.deps.json
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\net8.0-windows\2 - ByteBank.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\net8.0-windows\2 - ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\net8.0-windows\2 - ByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\refint\2 - ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\2 - ByteBank.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\net8.0-windows\ref\2 - ByteBank.dll

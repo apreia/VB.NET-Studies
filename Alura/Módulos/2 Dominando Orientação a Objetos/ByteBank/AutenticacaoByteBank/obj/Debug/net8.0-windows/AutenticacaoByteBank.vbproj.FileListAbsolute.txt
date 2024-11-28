@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.Frm_Principal.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\bin\Debug\net8.0-windows\AutenticacaoByteBank.exe
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\bin\Debug\net8.0-windows\AutenticacaoByteBank.deps.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\bin\Debug\net8.0-windows\AutenticacaoByteBank.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\bin\Debug\net8.0-windows\AutenticacaoByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\bin\Debug\net8.0-windows\AutenticacaoByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\refint\AutenticacaoByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\AutenticacaoByteBank.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\AutenticacaoByteBank\obj\Debug\net8.0-windows\ref\AutenticacaoByteBank.dll

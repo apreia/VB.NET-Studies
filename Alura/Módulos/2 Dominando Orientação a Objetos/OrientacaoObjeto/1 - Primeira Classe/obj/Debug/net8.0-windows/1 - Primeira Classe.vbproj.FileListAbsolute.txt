@@ -1,0 +1,17 @@
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\_1___Primeira_Classe.Frm_Principal_01.resources
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\net8.0-windows\1 - Primeira Classe.exe
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\net8.0-windows\1 - Primeira Classe.deps.json
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\net8.0-windows\1 - Primeira Classe.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\net8.0-windows\1 - Primeira Classe.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\net8.0-windows\1 - Primeira Classe.pdb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\refint\1 - Primeira Classe.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.pdb
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\1 - Primeira Classe.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\ref\1 - Primeira Classe.dll
+C:\Users\IMP-TI-04\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\net8.0-windows\_1___Primeira_Classe.Frm_Principal_02.resources

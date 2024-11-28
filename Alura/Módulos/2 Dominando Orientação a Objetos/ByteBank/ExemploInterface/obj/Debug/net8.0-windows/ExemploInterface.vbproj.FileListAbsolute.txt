@@ -1,0 +1,16 @@
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.ExemploInterface.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\bin\Debug\net8.0-windows\ExemploInterface.exe
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\bin\Debug\net8.0-windows\ExemploInterface.deps.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\bin\Debug\net8.0-windows\ExemploInterface.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\bin\Debug\net8.0-windows\ExemploInterface.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\bin\Debug\net8.0-windows\ExemploInterface.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\refint\ExemploInterface.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ExemploInterface.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ExemploInterface\obj\Debug\net8.0-windows\ref\ExemploInterface.dll

@@ -1,0 +1,17 @@
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.Frm_Principal.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\bin\Debug\net8.0-windows\ByteBank.exe
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\bin\Debug\net8.0-windows\ByteBank.deps.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\bin\Debug\net8.0-windows\ByteBank.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\bin\Debug\net8.0-windows\ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\bin\Debug\net8.0-windows\ByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\refint\ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.pdb
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ref\ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank\ByteBank\obj\Debug\net8.0-windows\ByteBank.Frm_Principal_02.resources
