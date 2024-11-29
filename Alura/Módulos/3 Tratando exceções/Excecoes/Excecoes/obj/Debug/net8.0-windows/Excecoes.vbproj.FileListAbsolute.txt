@@ -1,0 +1,17 @@
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.Frm_Principal.resources
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.vbproj.GenerateResource.cache
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\bin\Debug\net8.0-windows\Excecoes.exe
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\bin\Debug\net8.0-windows\Excecoes.deps.json
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\bin\Debug\net8.0-windows\Excecoes.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\bin\Debug\net8.0-windows\Excecoes.dll
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\bin\Debug\net8.0-windows\Excecoes.pdb
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.dll
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\refint\Excecoes.dll
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.pdb
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\ref\Excecoes.dll
+C:\Users\IMP-TI-04\source\repos\Excecoes\Excecoes\obj\Debug\net8.0-windows\Excecoes.Resources.resources
