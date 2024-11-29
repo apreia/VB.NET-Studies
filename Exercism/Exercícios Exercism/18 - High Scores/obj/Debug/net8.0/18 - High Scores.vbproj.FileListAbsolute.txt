@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\bin\Debug\net8.0\18 - High Scores.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\bin\Debug\net8.0\18 - High Scores.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\bin\Debug\net8.0\18 - High Scores.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\bin\Debug\net8.0\18 - High Scores.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\bin\Debug\net8.0\18 - High Scores.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\refint\18 - High Scores.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\18 - High Scores.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\18 - High Scores\obj\Debug\net8.0\ref\18 - High Scores.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\bin\Debug\net8.0\16 - Hamming.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\bin\Debug\net8.0\16 - Hamming.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\bin\Debug\net8.0\16 - Hamming.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\bin\Debug\net8.0\16 - Hamming.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\bin\Debug\net8.0\16 - Hamming.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\refint\16 - Hamming.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\16 - Hamming.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\16 - Hamming\obj\Debug\net8.0\ref\16 - Hamming.dll

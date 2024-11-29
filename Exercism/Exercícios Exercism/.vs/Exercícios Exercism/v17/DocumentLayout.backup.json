@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\15 - clock\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|solutionrelative:15 - clock\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}|18 - High Scores\\18 - High Scores.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\18 - high scores\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}|18 - High Scores\\18 - High Scores.vbproj|solutionrelative:18 - high scores\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\15 - clock\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{4383A5AB-2DD3-43C4-9832-386F618B0A0C}|15 - Clock\\15 - Clock.vbproj|solutionrelative:15 - clock\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}|18 - High Scores\\18 - High Scores.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\18 - high scores\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}|18 - High Scores\\18 - High Scores.vbproj|solutionrelative:18 - high scores\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Module1.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Module1.vb",
-              "RelativeDocumentMoniker": "15 - Clock\\Module1.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Module1.vb",
-              "RelativeToolTip": "15 - Clock\\Module1.vb",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wAcAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\18 - High Scores\\Module1.vb",
+              "RelativeDocumentMoniker": "18 - High Scores\\Module1.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\18 - High Scores\\Module1.vb",
+              "RelativeToolTip": "18 - High Scores\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-28T13:02:48.903Z",
+              "WhenOpened": "2024-11-29T12:45:35.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Program.vb",
-              "RelativeDocumentMoniker": "15 - Clock\\Program.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\15 - Clock\\Program.vb",
-              "RelativeToolTip": "15 - Clock\\Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\18 - High Scores\\Program.vb",
+              "RelativeDocumentMoniker": "18 - High Scores\\Program.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\18 - High Scores\\Program.vb",
+              "RelativeToolTip": "18 - High Scores\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-28T13:02:39.367Z",
+              "WhenOpened": "2024-11-29T12:45:28.951Z",
               "EditorCaption": ""
             }
           ]

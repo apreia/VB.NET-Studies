@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\bin\Debug\net8.0\17 - Phone Number.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\bin\Debug\net8.0\17 - Phone Number.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\bin\Debug\net8.0\17 - Phone Number.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\bin\Debug\net8.0\17 - Phone Number.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\bin\Debug\net8.0\17 - Phone Number.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\refint\17 - Phone Number.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\17 - Phone Number.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\17 - Phone Number\obj\Debug\net8.0\ref\17 - Phone Number.dll
