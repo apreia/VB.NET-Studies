@@ -24,6 +24,7 @@ Partial Class Frm_Principal
     Private Sub InitializeComponent()
         Lbl_Principal = New Label()
         Btm_Autentica = New Button()
+        Btm_Autentica2 = New Button()
         SuspendLayout()
         ' 
         ' Lbl_Principal
@@ -44,11 +45,21 @@ Partial Class Frm_Principal
         Btm_Autentica.Text = "Button1"
         Btm_Autentica.UseVisualStyleBackColor = True
         ' 
+        ' Btm_Autentica2
+        ' 
+        Btm_Autentica2.Location = New Point(189, 66)
+        Btm_Autentica2.Name = "Btm_Autentica2"
+        Btm_Autentica2.Size = New Size(171, 55)
+        Btm_Autentica2.TabIndex = 2
+        Btm_Autentica2.Text = "Button1"
+        Btm_Autentica2.UseVisualStyleBackColor = True
+        ' 
         ' Frm_Principal
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(677, 367)
+        Controls.Add(Btm_Autentica2)
         Controls.Add(Btm_Autentica)
         Controls.Add(Lbl_Principal)
         Name = "Frm_Principal"
@@ -60,5 +71,6 @@ Partial Class Frm_Principal
 
     Friend WithEvents Lbl_Principal As Label
     Friend WithEvents Btm_Autentica As Button
+    Friend WithEvents Btm_Autentica2 As Button
 
 End Class

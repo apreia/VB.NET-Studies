@@ -1,15 +1,8 @@
-﻿Namespace Classes.Funcionarios
-    Public MustInherit Class FuncionarioAutenticavel
-        Inherits Funcionario
+﻿Namespace Classes.Externos
+    Public Class Representante
         Implements IAutentica
 #Region "PROPRIEDADES"
         Public Property Senha As String
-#End Region
-
-#Region "CONSTRUTORES"
-        Public Sub New(_cpf As String, _Salario As Double)
-            MyBase.New(_cpf, _Salario)
-        End Sub
 #End Region
 
 #Region "MÉTODOS"
@@ -21,5 +14,6 @@
             Return False
         End Function
 #End Region
+
     End Class
 End Namespace

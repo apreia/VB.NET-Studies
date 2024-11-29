@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\exemplointerface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\exemplointerface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\classes\\externos\\representante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\classes\\externos\\representante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\sobrado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\sobrado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\classes\\funcionarios\\funcionarioautenticavel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\classes\\funcionarios\\funcionarioautenticavel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\casa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\casa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\classes\\bibliotecas\\iautentica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\classes\\bibliotecas\\iautentica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\imovel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\imovel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\iabrirporta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\iabrirporta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\predio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\predio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\exemplointerface\\exemplointerface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{63E95F2E-DD01-4D17-B525-5B06167EDF5D}|ExemploInterface\\ExemploInterface.vbproj|solutionrelative:exemplointerface\\exemplointerface.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank\\autenticacaobytebank\\classes\\bibliotecas\\sistemainterno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C21D21FB-6246-4CB3-9A58-3272774485D9}|AutenticacaoByteBank\\AutenticacaoByteBank.vbproj|solutionrelative:autenticacaobytebank\\classes\\bibliotecas\\sistemainterno.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,91 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sobrado.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Sobrado.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\Sobrado.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Sobrado.vb",
-              "RelativeToolTip": "ExemploInterface\\Sobrado.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IAutentica.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Bibliotecas\\IAutentica.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Classes\\Bibliotecas\\IAutentica.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Bibliotecas\\IAutentica.vb",
+              "RelativeToolTip": "AutenticacaoByteBank\\Classes\\Bibliotecas\\IAutentica.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:38:34.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAbrirPorta.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\IAbrirPorta.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\IAbrirPorta.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\IAbrirPorta.vb",
-              "RelativeToolTip": "ExemploInterface\\IAbrirPorta.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:32:25.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Imovel.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Imovel.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\Imovel.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Imovel.vb",
-              "RelativeToolTip": "ExemploInterface\\Imovel.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:27:10.225Z"
+              "WhenOpened": "2024-11-29T18:43:55.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Predio.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Predio.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\Predio.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Predio.vb",
-              "RelativeToolTip": "ExemploInterface\\Predio.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Title": "SistemaInterno.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Bibliotecas\\SistemaInterno.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Classes\\Bibliotecas\\SistemaInterno.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Bibliotecas\\SistemaInterno.vb",
+              "RelativeToolTip": "AutenticacaoByteBank\\Classes\\Bibliotecas\\SistemaInterno.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:26:24.543Z"
+              "WhenOpened": "2024-11-29T18:33:10.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Casa.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Casa.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\Casa.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\Casa.vb",
-              "RelativeToolTip": "ExemploInterface\\Casa.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioAutenticavel.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Funcionarios\\FuncionarioAutenticavel.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Classes\\Funcionarios\\FuncionarioAutenticavel.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Funcionarios\\FuncionarioAutenticavel.vb",
+              "RelativeToolTip": "AutenticacaoByteBank\\Classes\\Funcionarios\\FuncionarioAutenticavel.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:25:54.506Z"
+              "WhenOpened": "2024-11-29T18:32:07.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExemploInterface.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\ExemploInterface.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\ExemploInterface.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\ExemploInterface.vb",
-              "RelativeToolTip": "ExemploInterface\\ExemploInterface.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Title": "Representante.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Externos\\Representante.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Classes\\Externos\\Representante.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Classes\\Externos\\Representante.vb",
+              "RelativeToolTip": "AutenticacaoByteBank\\Classes\\Externos\\Representante.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:23:51.869Z",
+              "WhenOpened": "2024-11-29T18:31:20.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExemploInterface.vb [Projeto]",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\ExemploInterface.vb",
-              "RelativeDocumentMoniker": "ExemploInterface\\ExemploInterface.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\ExemploInterface\\ExemploInterface.vb [Projeto]",
-              "RelativeToolTip": "ExemploInterface\\ExemploInterface.vb [Projeto]",
+              "DocumentIndex": 3,
+              "Title": "Frm_Principal.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Frm_Principal.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Frm_Principal.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Frm_Principal.vb",
+              "RelativeToolTip": "AutenticacaoByteBank\\Frm_Principal.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-27T20:22:53.466Z",
+              "WhenOpened": "2024-11-29T18:34:28.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_Principal.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Frm_Principal.vb",
+              "RelativeDocumentMoniker": "AutenticacaoByteBank\\Frm_Principal.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank\\AutenticacaoByteBank\\Frm_Principal.vb [Projeto]",
+              "RelativeToolTip": "AutenticacaoByteBank\\Frm_Principal.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T18:34:22.354Z",
               "EditorCaption": " [Projeto]"
             }
           ]

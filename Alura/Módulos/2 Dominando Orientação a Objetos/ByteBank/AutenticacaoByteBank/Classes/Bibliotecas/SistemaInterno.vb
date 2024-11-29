@@ -1,10 +1,11 @@
-﻿Imports AutenticacaoByteBank.Classes.Funcionarios
+﻿Imports AutenticacaoByteBank.Classes.Externos
+Imports AutenticacaoByteBank.Classes.Funcionarios
 
 Namespace Classes.Bibliotecas
     Public Class SistemaInterno
-        Public Function Logar(Funcionario As FuncionarioAutenticavel, senhaTentativa As String)
+        Public Function Logar(Entidade As IAutentica, senhaTentativa As String)
             Dim vRetorno As Boolean
-            vRetorno = Funcionario.Autenticar(senhaTentativa)
+            vRetorno = Entidade.Autenticar(senhaTentativa)
             Return vRetorno
         End Function
     End Class
