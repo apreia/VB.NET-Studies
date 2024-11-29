@@ -20,6 +20,11 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Usar **atributos** e **métodos da instância** e da **classe** para manipular dados e comportamentos dos objetos.
   - Definir **objetos** corretamente utilizando **construtores** para inicializar suas propriedades.
   - Aprender sobre **encapsulamento**, protegendo os dados das classes e garantindo um acesso controlado.
+  - Reutilizar código com **herança** e **composição**.
+  - Entender o que é **polimorfismo** na prática.
+  - Implementar **classes base**, **derivadas** e **interfaces**.
+  - Aprender **sobrescrita de métodos**.
+  - Conhecer o modificador de visibilidade **protected**.
 
 - **3 Entendendo exceções**  
 - **4 Bibliotecas, documentação e Nuget**  
