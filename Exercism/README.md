@@ -80,6 +80,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 20: Perfect Numbers**
 > Determine se um número é perfeito, abundante ou deficiente com base no esquema de classificação de Nicômaco para números inteiros positivos.
 
+### 🔹 **Exercício 21: Wordy**
+> Analise e avalie problemas matemáticos simples retornando a resposta como um inteiro.
+
+### 🔹 **Exercício 22: Gigasecond**
+> Dado um momento, determine o momento que ocorreria depois que um gigasegundo tivesse passado.
+
+### 🔹 **Exercício 23: House**
+> Produza a canção infantil "Esta é a casa que Jack construiu".
+
+### 🔹 **Exercício 24: Spiral Matrix**
+> Dado o tamanho, retorne uma matriz quadrada de números em ordem espiral.
+
+### 🔹 **Exercício 25: Series**
+> Dada uma sequência de dígitos, produza todas as subsequências contíguas de comprimento 'n' nessa sequência.
+
+### 🔹 **Exercício 26: Word Count**
+> Dada uma frase, conte as ocorrências de cada palavra nessa frase.
+
+### 🔹 **Exercício 27: Sum of Multiples**
+> Dado um número, encontre a soma de todos os múltiplos de números específicos até, mas não incluindo, esse número.
+
+### 🔹 **Exercício 28: Secret Handshake**
+> Dado um número decimal, converta-o na sequência apropriada de eventos para um aperto de mão secreto.
+
+### 🔹 **Exercício 29: Scrabble Score**
+> Dada uma palavra, calcule a pontuação do Scrabble para essa palavra.
+
+### 🔹 **Exercício 30: Sieve**
+> Use o Crivo de Eratóstenes para encontrar todos os números primos de 2 até um determinado número.
+
 ---
 
 ## 📁 Estrutura do Repositório
