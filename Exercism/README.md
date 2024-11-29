@@ -74,6 +74,12 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 18: High Scores**
 > Gerencie a lista de pontuações mais altas de um jogador.
 
+### 🔹 **Exercício 19: Matching Brackets**
+> Certifique-se de que todos os colchetes e chaves estejam alinhados.
+
+### 🔹 **Exercício 20: Perfect Numbers**
+> Determine se um número é perfeito, abundante ou deficiente com base no esquema de classificação de Nicômaco para números inteiros positivos.
+
 ---
 
 ## 📁 Estrutura do Repositório
