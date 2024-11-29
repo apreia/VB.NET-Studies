@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\bin\Debug\net8.0\29 - Scrabble Score.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\bin\Debug\net8.0\29 - Scrabble Score.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\bin\Debug\net8.0\29 - Scrabble Score.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\bin\Debug\net8.0\29 - Scrabble Score.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\bin\Debug\net8.0\29 - Scrabble Score.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\refint\29 - Scrabble Score.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\29 - Scrabble Score.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\29 - Scrabble Score\obj\Debug\net8.0\ref\29 - Scrabble Score.dll

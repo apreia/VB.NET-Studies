@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\bin\Debug\net8.0\21 - Wordy.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\bin\Debug\net8.0\21 - Wordy.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\bin\Debug\net8.0\21 - Wordy.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\bin\Debug\net8.0\21 - Wordy.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\bin\Debug\net8.0\21 - Wordy.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\refint\21 - Wordy.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\21 - Wordy.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\21 - Wordy\obj\Debug\net8.0\ref\21 - Wordy.dll

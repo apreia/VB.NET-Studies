@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\bin\Debug\net8.0\23 - House.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\bin\Debug\net8.0\23 - House.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\bin\Debug\net8.0\23 - House.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\bin\Debug\net8.0\23 - House.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\bin\Debug\net8.0\23 - House.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\refint\23 - House.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\23 - House.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\23 - House\obj\Debug\net8.0\ref\23 - House.dll

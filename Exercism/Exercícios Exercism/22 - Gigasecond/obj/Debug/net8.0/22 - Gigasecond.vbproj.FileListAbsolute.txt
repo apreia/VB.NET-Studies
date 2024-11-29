@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\bin\Debug\net8.0\22 - Gigasecond.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\bin\Debug\net8.0\22 - Gigasecond.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\bin\Debug\net8.0\22 - Gigasecond.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\bin\Debug\net8.0\22 - Gigasecond.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\bin\Debug\net8.0\22 - Gigasecond.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\refint\22 - Gigasecond.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\22 - Gigasecond.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\22 - Gigasecond\obj\Debug\net8.0\ref\22 - Gigasecond.dll

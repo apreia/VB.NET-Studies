@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\bin\Debug\net8.0\26 - Word Count.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\bin\Debug\net8.0\26 - Word Count.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\bin\Debug\net8.0\26 - Word Count.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\bin\Debug\net8.0\26 - Word Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\bin\Debug\net8.0\26 - Word Count.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\refint\26 - Word Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\26 - Word Count.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\26 - Word Count\obj\Debug\net8.0\ref\26 - Word Count.dll

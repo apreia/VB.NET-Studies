@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\bin\Debug\net8.0\25 - Series.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\bin\Debug\net8.0\25 - Series.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\bin\Debug\net8.0\25 - Series.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\bin\Debug\net8.0\25 - Series.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\bin\Debug\net8.0\25 - Series.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\refint\25 - Series.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\25 - Series.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\25 - Series\obj\Debug\net8.0\ref\25 - Series.dll

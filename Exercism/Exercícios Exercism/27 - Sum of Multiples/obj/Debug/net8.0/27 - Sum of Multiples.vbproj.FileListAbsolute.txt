@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\bin\Debug\net8.0\27 - Sum of Multiples.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\bin\Debug\net8.0\27 - Sum of Multiples.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\bin\Debug\net8.0\27 - Sum of Multiples.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\bin\Debug\net8.0\27 - Sum of Multiples.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\bin\Debug\net8.0\27 - Sum of Multiples.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\refint\27 - Sum of Multiples.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\27 - Sum of Multiples.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\27 - Sum of Multiples\obj\Debug\net8.0\ref\27 - Sum of Multiples.dll

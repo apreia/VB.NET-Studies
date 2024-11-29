@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\bin\Debug\net8.0\30 - Sieve.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\bin\Debug\net8.0\30 - Sieve.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\bin\Debug\net8.0\30 - Sieve.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\bin\Debug\net8.0\30 - Sieve.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\bin\Debug\net8.0\30 - Sieve.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\refint\30 - Sieve.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\30 - Sieve.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\30 - Sieve\obj\Debug\net8.0\ref\30 - Sieve.dll
