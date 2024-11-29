@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\bin\Debug\net8.0\19 - Matching Brackets.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\bin\Debug\net8.0\19 - Matching Brackets.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\bin\Debug\net8.0\19 - Matching Brackets.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\bin\Debug\net8.0\19 - Matching Brackets.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\bin\Debug\net8.0\19 - Matching Brackets.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\refint\19 - Matching Brackets.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\19 - Matching Brackets.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\19 - Matching Brackets\obj\Debug\net8.0\ref\19 - Matching Brackets.dll

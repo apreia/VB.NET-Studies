@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\bin\Debug\net8.0\20 - Perfect Numbers.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\bin\Debug\net8.0\20 - Perfect Numbers.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\bin\Debug\net8.0\20 - Perfect Numbers.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\bin\Debug\net8.0\20 - Perfect Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\bin\Debug\net8.0\20 - Perfect Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\refint\20 - Perfect Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\20 - Perfect Numbers.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\20 - Perfect Numbers\obj\Debug\net8.0\ref\20 - Perfect Numbers.dll

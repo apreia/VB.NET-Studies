@@ -39,6 +39,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "17 - Phone Number", "17 - P
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "18 - High Scores", "18 - High Scores\18 - High Scores.vbproj", "{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "19 - Matching Brackets", "19 - Matching Brackets\19 - Matching Brackets.vbproj", "{B9FD6C0A-D8EB-4313-8112-84C91EB6EB69}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "20 - Perfect Numbers", "20 - Perfect Numbers\20 - Perfect Numbers.vbproj", "{07EE10D1-987E-4552-BC79-4ABCF9E02849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A55328F-EB6E-45FC-B72D-1F8D4FF03675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FD6C0A-D8EB-4313-8112-84C91EB6EB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FD6C0A-D8EB-4313-8112-84C91EB6EB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FD6C0A-D8EB-4313-8112-84C91EB6EB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FD6C0A-D8EB-4313-8112-84C91EB6EB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EE10D1-987E-4552-BC79-4ABCF9E02849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EE10D1-987E-4552-BC79-4ABCF9E02849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EE10D1-987E-4552-BC79-4ABCF9E02849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EE10D1-987E-4552-BC79-4ABCF9E02849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
