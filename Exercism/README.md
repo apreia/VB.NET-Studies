@@ -110,6 +110,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 30: Sieve**
 > Use o Crivo de Eratóstenes para encontrar todos os números primos de 2 até um determinado número.
 
+### 🔹 **Exercício 31: Saddle Points**
+> Detectar ponors de sela em uma matriz.
+
+### 🔹 **Exercício 32: Run-Lenght Encoding**
+> Implementar codificação e decodificação de comprimento de execução.
+
+### 🔹 **Exercício 33: Rotational Cipher**
+> Crie uma implementação da cifra rotacional, também chamada de cifra de César.
+
+### 🔹 **Exercício 34: Raindrops**
+> Converta um número em seus tons de gotas de chuva correspondentes: Pling, Plang e Plong.
+
+### 🔹 **Exercício 35: Rail Fence Cipher**
+> Implementar codificação e decodificação para a cifra da cerca ferroviária.
+
+### 🔹 **Exercício 36: Pythagorean Triplet**
+> Existe exatamente um tripleto pitagórico para o qual a + b + c = 1000. Encontre o tripleto.
+
+### 🔹 **Exercício 37: Proverb**
+> Por falta de um prego de ferradura, um reino foi perdido, ou assim diz o ditado. Produza o texto completo desta rima proverbial.
+
+### 🔹 **Exercício 38: Protein Translation**
+> Traduzir sequências de RNA em proteínas.
+
+### 🔹 **Exercício 39: Prime Factors**
+> Calcule os fatores primos de um determinado número natural.
+
+### 🔹 **Exercício 40: Pig Latin**
+> Implementar um programa que traduza do inglês para o latim pig.
+
 ---
 
 ## 📁 Estrutura do Repositório
