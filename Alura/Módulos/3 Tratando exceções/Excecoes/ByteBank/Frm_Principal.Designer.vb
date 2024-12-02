@@ -27,6 +27,11 @@ Partial Class Frm_Principal
         Aula01ToolStripMenuItem = New ToolStripMenuItem()
         Vídeo01ToolStripMenuItem = New ToolStripMenuItem()
         Vídeo02ToolStripMenuItem = New ToolStripMenuItem()
+        Vídeo03ToolStripMenuItem = New ToolStripMenuItem()
+        Txt_Denominador = New TextBox()
+        Lbl_Denominador = New Label()
+        Aula02ToolStripMenuItem = New ToolStripMenuItem()
+        Vídeo04ToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
@@ -41,7 +46,7 @@ Partial Class Frm_Principal
         ' 
         ' MenuStrip1
         ' 
-        MenuStrip1.Items.AddRange(New ToolStripItem() {Aula01ToolStripMenuItem})
+        MenuStrip1.Items.AddRange(New ToolStripItem() {Aula01ToolStripMenuItem, Aula02ToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
         MenuStrip1.Size = New Size(497, 24)
@@ -50,7 +55,7 @@ Partial Class Frm_Principal
         ' 
         ' Aula01ToolStripMenuItem
         ' 
-        Aula01ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {Vídeo01ToolStripMenuItem, Vídeo02ToolStripMenuItem})
+        Aula01ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {Vídeo01ToolStripMenuItem, Vídeo02ToolStripMenuItem, Vídeo03ToolStripMenuItem})
         Aula01ToolStripMenuItem.Name = "Aula01ToolStripMenuItem"
         Aula01ToolStripMenuItem.Size = New Size(58, 20)
         Aula01ToolStripMenuItem.Text = "Aula 01"
@@ -58,20 +63,57 @@ Partial Class Frm_Principal
         ' Vídeo01ToolStripMenuItem
         ' 
         Vídeo01ToolStripMenuItem.Name = "Vídeo01ToolStripMenuItem"
-        Vídeo01ToolStripMenuItem.Size = New Size(180, 22)
+        Vídeo01ToolStripMenuItem.Size = New Size(119, 22)
         Vídeo01ToolStripMenuItem.Text = "Vídeo 01"
         ' 
         ' Vídeo02ToolStripMenuItem
         ' 
         Vídeo02ToolStripMenuItem.Name = "Vídeo02ToolStripMenuItem"
-        Vídeo02ToolStripMenuItem.Size = New Size(180, 22)
+        Vídeo02ToolStripMenuItem.Size = New Size(119, 22)
         Vídeo02ToolStripMenuItem.Text = "Vídeo 02"
+        ' 
+        ' Vídeo03ToolStripMenuItem
+        ' 
+        Vídeo03ToolStripMenuItem.Name = "Vídeo03ToolStripMenuItem"
+        Vídeo03ToolStripMenuItem.Size = New Size(119, 22)
+        Vídeo03ToolStripMenuItem.Text = "Vídeo 03"
+        ' 
+        ' Txt_Denominador
+        ' 
+        Txt_Denominador.Location = New Point(12, 124)
+        Txt_Denominador.Name = "Txt_Denominador"
+        Txt_Denominador.Size = New Size(100, 23)
+        Txt_Denominador.TabIndex = 2
+        ' 
+        ' Lbl_Denominador
+        ' 
+        Lbl_Denominador.AutoSize = True
+        Lbl_Denominador.Location = New Point(12, 106)
+        Lbl_Denominador.Name = "Lbl_Denominador"
+        Lbl_Denominador.Size = New Size(41, 15)
+        Lbl_Denominador.TabIndex = 3
+        Lbl_Denominador.Text = "Label1"
+        ' 
+        ' Aula02ToolStripMenuItem
+        ' 
+        Aula02ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {Vídeo04ToolStripMenuItem})
+        Aula02ToolStripMenuItem.Name = "Aula02ToolStripMenuItem"
+        Aula02ToolStripMenuItem.Size = New Size(58, 20)
+        Aula02ToolStripMenuItem.Text = "Aula 02"
+        ' 
+        ' Vídeo04ToolStripMenuItem
+        ' 
+        Vídeo04ToolStripMenuItem.Name = "Vídeo04ToolStripMenuItem"
+        Vídeo04ToolStripMenuItem.Size = New Size(180, 22)
+        Vídeo04ToolStripMenuItem.Text = "Vídeo 04"
         ' 
         ' Frm_Principal
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(497, 359)
+        Controls.Add(Lbl_Denominador)
+        Controls.Add(Txt_Denominador)
         Controls.Add(Lbl_Principal)
         Controls.Add(MenuStrip1)
         MainMenuStrip = MenuStrip1
@@ -89,5 +131,10 @@ Partial Class Frm_Principal
     Friend WithEvents Aula01ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Vídeo01ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Vídeo02ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Txt_Denominador As TextBox
+    Friend WithEvents Lbl_Denominador As Label
+    Friend WithEvents Vídeo03ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Aula02ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Vídeo04ToolStripMenuItem As ToolStripMenuItem
 
 End Class

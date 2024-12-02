@@ -2,7 +2,8 @@
     Public Class ContaCorrente
 #Region "PROPRIEDADES"
         Public Property Titular As Cliente
-        Public Property Numero As Integer
+
+        Public ReadOnly Property Numero As Integer
 
         Private Shared m_TaxaOperacao As Integer
         Public Shared ReadOnly Property TaxaOperacao As Integer
@@ -18,19 +19,7 @@
             End Get
         End Property
 
-        Private m_agencia As Integer
-        Public Property Agencia As Integer
-            Get
-                Return m_agencia
-            End Get
-            Set(value As Integer)
-                If value <= 0 Then
-                    m_agencia = 0
-                Else
-                    m_agencia = value
-                End If
-            End Set
-        End Property
+        Public ReadOnly Property Agencia As Integer
 
         Private m_saldo As Double = 100
         Public Property Saldo As Double
@@ -49,7 +38,7 @@
 
 #Region "CONSTRUTORES"
         Public Sub New(_Agencia As Integer, _numero As Integer)
-            m_agencia = _Agencia
+            Agencia = _Agencia
             Numero = _numero
 
             m_TaxaOperacao = 30 / m_TotalDeContasCriadas
