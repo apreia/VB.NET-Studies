@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\bin\Debug\net8.0\36 - Pythagoeran Triplet.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\bin\Debug\net8.0\36 - Pythagoeran Triplet.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\bin\Debug\net8.0\36 - Pythagoeran Triplet.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\bin\Debug\net8.0\36 - Pythagoeran Triplet.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\bin\Debug\net8.0\36 - Pythagoeran Triplet.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\refint\36 - Pythagoeran Triplet.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\36 - Pythagoeran Triplet.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\36 - Pythagoeran Triplet\obj\Debug\net8.0\ref\36 - Pythagoeran Triplet.dll

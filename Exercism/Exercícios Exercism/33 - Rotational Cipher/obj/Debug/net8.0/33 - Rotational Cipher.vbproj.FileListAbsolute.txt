@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\bin\Debug\net8.0\33 - Rotational Cipher.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\bin\Debug\net8.0\33 - Rotational Cipher.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\bin\Debug\net8.0\33 - Rotational Cipher.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\bin\Debug\net8.0\33 - Rotational Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\bin\Debug\net8.0\33 - Rotational Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\refint\33 - Rotational Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\33 - Rotational Cipher.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\33 - Rotational Cipher\obj\Debug\net8.0\ref\33 - Rotational Cipher.dll

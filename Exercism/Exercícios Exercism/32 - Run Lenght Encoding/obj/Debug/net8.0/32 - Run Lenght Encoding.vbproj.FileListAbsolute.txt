@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\bin\Debug\net8.0\32 - Run Lenght Encoding.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\bin\Debug\net8.0\32 - Run Lenght Encoding.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\bin\Debug\net8.0\32 - Run Lenght Encoding.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\bin\Debug\net8.0\32 - Run Lenght Encoding.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\bin\Debug\net8.0\32 - Run Lenght Encoding.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\refint\32 - Run Lenght Encoding.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\32 - Run Lenght Encoding.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\32 - Run Lenght Encoding\obj\Debug\net8.0\ref\32 - Run Lenght Encoding.dll

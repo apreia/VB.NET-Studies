@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\bin\Debug\net8.0\38 - Protein Translation.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\bin\Debug\net8.0\38 - Protein Translation.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\bin\Debug\net8.0\38 - Protein Translation.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\bin\Debug\net8.0\38 - Protein Translation.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\bin\Debug\net8.0\38 - Protein Translation.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\refint\38 - Protein Translation.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\38 - Protein Translation.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\38 - Protein Translation\obj\Debug\net8.0\ref\38 - Protein Translation.dll

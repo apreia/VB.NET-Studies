@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\bin\Debug\net8.0\34 - Raindrops.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\bin\Debug\net8.0\34 - Raindrops.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\bin\Debug\net8.0\34 - Raindrops.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\bin\Debug\net8.0\34 - Raindrops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\bin\Debug\net8.0\34 - Raindrops.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\refint\34 - Raindrops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\34 - Raindrops.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\34 - Raindrops\obj\Debug\net8.0\ref\34 - Raindrops.dll

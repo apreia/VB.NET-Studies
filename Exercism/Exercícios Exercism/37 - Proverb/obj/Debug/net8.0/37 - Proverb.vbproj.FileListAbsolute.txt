@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\bin\Debug\net8.0\37 - Proverb.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\bin\Debug\net8.0\37 - Proverb.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\bin\Debug\net8.0\37 - Proverb.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\bin\Debug\net8.0\37 - Proverb.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\bin\Debug\net8.0\37 - Proverb.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\refint\37 - Proverb.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\37 - Proverb.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\37 - Proverb\obj\Debug\net8.0\ref\37 - Proverb.dll

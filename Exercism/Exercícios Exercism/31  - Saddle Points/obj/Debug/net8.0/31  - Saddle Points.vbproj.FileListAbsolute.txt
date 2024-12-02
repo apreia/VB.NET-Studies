@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\bin\Debug\net8.0\31  - Saddle Points.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\bin\Debug\net8.0\31  - Saddle Points.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\bin\Debug\net8.0\31  - Saddle Points.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\bin\Debug\net8.0\31  - Saddle Points.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\bin\Debug\net8.0\31  - Saddle Points.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\refint\31  - Saddle Points.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\31  - Saddle Points.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\31  - Saddle Points\obj\Debug\net8.0\ref\31  - Saddle Points.dll

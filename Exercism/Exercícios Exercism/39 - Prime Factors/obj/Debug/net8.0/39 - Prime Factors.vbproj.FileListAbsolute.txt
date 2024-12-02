@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\bin\Debug\net8.0\39 - Prime Factors.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\bin\Debug\net8.0\39 - Prime Factors.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\bin\Debug\net8.0\39 - Prime Factors.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\bin\Debug\net8.0\39 - Prime Factors.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\bin\Debug\net8.0\39 - Prime Factors.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\refint\39 - Prime Factors.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\39 - Prime Factors.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\39 - Prime Factors\obj\Debug\net8.0\ref\39 - Prime Factors.dll

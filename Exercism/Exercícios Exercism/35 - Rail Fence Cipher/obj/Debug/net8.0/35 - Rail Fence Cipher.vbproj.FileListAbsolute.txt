@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\bin\Debug\net8.0\35 - Rail Fence Cipher.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\bin\Debug\net8.0\35 - Rail Fence Cipher.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\bin\Debug\net8.0\35 - Rail Fence Cipher.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\bin\Debug\net8.0\35 - Rail Fence Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\bin\Debug\net8.0\35 - Rail Fence Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\refint\35 - Rail Fence Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\35 - Rail Fence Cipher.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\35 - Rail Fence Cipher\obj\Debug\net8.0\ref\35 - Rail Fence Cipher.dll
