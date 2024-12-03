@@ -140,6 +140,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 40: Pig Latin**
 > Implementar um programa que traduza do inglês para o latim pig.
 
+### 🔹 **Exercício 41: Parallel Letter Frequency**
+> Conte a frequência de letras em textos usando computaçao paralela.
+
+### 🔹 **Exercício 42: Pangram**
+> Determine se uma frase é um pangrama.
+
+### 🔹 **Exercício 43: OCR Numbers**
+> Dada uma grade 3 X 4 de barras verticais, sublinhados e espaços, determine qual número é representado ou se ele está distorcido.
+
+### 🔹 **Exercício 44: Nucleotide Count**
+> Dada uma sequência de DNA, calcule quantas vezes cada nucleotídeo ocorre na sequência.
+
+### 🔹 **Exercício 45: Minesweeper**
+> Adicione os números a um tabuleiro de caça-minas.
+
+### 🔹 **Exercício 46: Meetup**
+> Calcule a data dos encontros.
+
+### 🔹 **Exercício 47: Matrix**
+> Dada uma string representando uma matriz de números, retorne as linhas e colunas dessa matriz.
+
+### 🔹 **Exercício 48: Luhn**
+> Dado um número, determine se ele é valido ou não pela fórmula de Luhn.
+
+### 🔹 **Exercício 49: Variable Lenght Quantity**
+> Implementar codificação e decodificação de quantidade de comprimento variável.
+
+### 🔹 **Exercício 50: Space Age**
+> Dada uma idade em segundos, calcule a idade de alguém em termos de anos solares de um determinado planeta.
+
 ---
 
 ## 📁 Estrutura do Repositório
