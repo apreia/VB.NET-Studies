@@ -170,6 +170,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 50: Space Age**
 > Dada uma idade em segundos, calcule a idade de alguém em termos de anos solares de um determinado planeta.
 
+### 🔹 **Exercício 51: RNA Transcription**
+> Dada uma fita de DNA, retorne sua transcrição do complemento de RNA.
+
+### 🔹 **Exercício 52: Resistor Color Duo**
+> Converta códigos de cores, como os usados em resistores, em um valor numérico.
+
+### 🔹 **Exercício 53: Rectangles**
+> Conte os retângulos em um diagrama ASCII.
+
+### 🔹 **Exercício 54: List Ops**
+> Implementar operações básicas de lista.
+
+### 🔹 **Exercício 55: Linked List**
+> Implemente uma lista duplamente encadeada.
+
+### 🔹 **Exercício 56: Ledger**
+> Refatore uma impressora de contabilidade.
+
+### 🔹 **Exercício 57: Largest Series Product**
+> Dada uma sequência de dígitos, calcule o maior produto para uma subsequência contígua de dígitos de comprimento n.
+
+### 🔹 **Exercício 58: Isogram**
+> Determine se uma palavra ou frase é um isograma.
+
+### 🔹 **Exercício 59: Grep**
+> Pesquise um arquivo por linhas que correspondam a um padrão de expressão regular. Retorne o número da linha e o conteúdo de cada uma.
+
+### 🔹 **Exercício 60: Grains**
+> Calcule o número de grãos de trigo em um tabuleiro de xadrez, dado que o número em cada quadrado dobra.
+
 ---
 
 ## 📁 Estrutura do Repositório
