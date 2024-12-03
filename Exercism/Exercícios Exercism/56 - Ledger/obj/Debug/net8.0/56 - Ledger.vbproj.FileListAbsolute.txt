@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\bin\Debug\net8.0\56 - Ledger.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\bin\Debug\net8.0\56 - Ledger.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\bin\Debug\net8.0\56 - Ledger.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\bin\Debug\net8.0\56 - Ledger.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\bin\Debug\net8.0\56 - Ledger.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\refint\56 - Ledger.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\56 - Ledger.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\56 - Ledger\obj\Debug\net8.0\ref\56 - Ledger.dll

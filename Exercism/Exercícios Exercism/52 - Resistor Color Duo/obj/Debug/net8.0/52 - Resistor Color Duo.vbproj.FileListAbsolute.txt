@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\bin\Debug\net8.0\52 - Resistor Color Duo.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\bin\Debug\net8.0\52 - Resistor Color Duo.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\bin\Debug\net8.0\52 - Resistor Color Duo.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\bin\Debug\net8.0\52 - Resistor Color Duo.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\bin\Debug\net8.0\52 - Resistor Color Duo.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\refint\52 - Resistor Color Duo.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\52 - Resistor Color Duo.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\52 - Resistor Color Duo\obj\Debug\net8.0\ref\52 - Resistor Color Duo.dll

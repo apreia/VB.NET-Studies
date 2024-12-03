@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\bin\Debug\net8.0\57 - Largest Series Product.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\bin\Debug\net8.0\57 - Largest Series Product.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\bin\Debug\net8.0\57 - Largest Series Product.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\bin\Debug\net8.0\57 - Largest Series Product.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\bin\Debug\net8.0\57 - Largest Series Product.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\refint\57 - Largest Series Product.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\57 - Largest Series Product.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\57 - Largest Series Product\obj\Debug\net8.0\ref\57 - Largest Series Product.dll

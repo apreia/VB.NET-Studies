@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\bin\Debug\net8.0\55 - Linked List.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\bin\Debug\net8.0\55 - Linked List.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\bin\Debug\net8.0\55 - Linked List.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\bin\Debug\net8.0\55 - Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\bin\Debug\net8.0\55 - Linked List.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\refint\55 - Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\55 - Linked List.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\55 - Linked List\obj\Debug\net8.0\ref\55 - Linked List.dll

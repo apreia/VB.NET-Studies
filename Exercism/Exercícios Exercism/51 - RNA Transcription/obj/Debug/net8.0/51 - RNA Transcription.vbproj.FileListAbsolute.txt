@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\bin\Debug\net8.0\51 - RNA Transcription.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\bin\Debug\net8.0\51 - RNA Transcription.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\bin\Debug\net8.0\51 - RNA Transcription.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\bin\Debug\net8.0\51 - RNA Transcription.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\bin\Debug\net8.0\51 - RNA Transcription.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\refint\51 - RNA Transcription.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\51 - RNA Transcription.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\51 - RNA Transcription\obj\Debug\net8.0\ref\51 - RNA Transcription.dll

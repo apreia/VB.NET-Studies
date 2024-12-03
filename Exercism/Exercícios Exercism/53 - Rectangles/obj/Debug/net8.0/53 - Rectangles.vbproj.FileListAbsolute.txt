@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\bin\Debug\net8.0\53 - Rectangles.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\bin\Debug\net8.0\53 - Rectangles.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\bin\Debug\net8.0\53 - Rectangles.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\bin\Debug\net8.0\53 - Rectangles.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\bin\Debug\net8.0\53 - Rectangles.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\refint\53 - Rectangles.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\53 - Rectangles.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\53 - Rectangles\obj\Debug\net8.0\ref\53 - Rectangles.dll

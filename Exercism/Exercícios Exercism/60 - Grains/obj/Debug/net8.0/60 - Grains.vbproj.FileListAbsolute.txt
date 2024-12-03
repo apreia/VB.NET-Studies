@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\bin\Debug\net8.0\60 - Grains.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\bin\Debug\net8.0\60 - Grains.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\bin\Debug\net8.0\60 - Grains.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\bin\Debug\net8.0\60 - Grains.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\bin\Debug\net8.0\60 - Grains.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\refint\60 - Grains.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\60 - Grains.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\60 - Grains\obj\Debug\net8.0\ref\60 - Grains.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\bin\Debug\net8.0\58 - Isogram.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\bin\Debug\net8.0\58 - Isogram.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\bin\Debug\net8.0\58 - Isogram.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\bin\Debug\net8.0\58 - Isogram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\bin\Debug\net8.0\58 - Isogram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\refint\58 - Isogram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\58 - Isogram.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\58 - Isogram\obj\Debug\net8.0\ref\58 - Isogram.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\bin\Debug\net8.0\54 - List Ops.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\bin\Debug\net8.0\54 - List Ops.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\bin\Debug\net8.0\54 - List Ops.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\bin\Debug\net8.0\54 - List Ops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\bin\Debug\net8.0\54 - List Ops.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\refint\54 - List Ops.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\54 - List Ops.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\54 - List Ops\obj\Debug\net8.0\ref\54 - List Ops.dll
