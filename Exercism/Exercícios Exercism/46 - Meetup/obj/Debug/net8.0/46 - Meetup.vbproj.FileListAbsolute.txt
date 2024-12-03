@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\bin\Debug\net8.0\46 - Meetup.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\bin\Debug\net8.0\46 - Meetup.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\bin\Debug\net8.0\46 - Meetup.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\bin\Debug\net8.0\46 - Meetup.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\bin\Debug\net8.0\46 - Meetup.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\refint\46 - Meetup.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\46 - Meetup.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\46 - Meetup\obj\Debug\net8.0\ref\46 - Meetup.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\bin\Debug\net8.0\49 - Variable Lenght Quantity.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\bin\Debug\net8.0\49 - Variable Lenght Quantity.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\bin\Debug\net8.0\49 - Variable Lenght Quantity.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\bin\Debug\net8.0\49 - Variable Lenght Quantity.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\bin\Debug\net8.0\49 - Variable Lenght Quantity.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\refint\49 - Variable Lenght Quantity.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\49 - Variable Lenght Quantity.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\49 - Variable Lenght Quantity\obj\Debug\net8.0\ref\49 - Variable Lenght Quantity.dll

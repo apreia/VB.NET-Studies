@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\bin\Debug\net8.0\50 - Space Age.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\bin\Debug\net8.0\50 - Space Age.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\bin\Debug\net8.0\50 - Space Age.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\bin\Debug\net8.0\50 - Space Age.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\bin\Debug\net8.0\50 - Space Age.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\refint\50 - Space Age.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\50 - Space Age.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\50 - Space Age\obj\Debug\net8.0\ref\50 - Space Age.dll

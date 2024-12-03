@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\bin\Debug\net8.0\45 - Minesweeper.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\bin\Debug\net8.0\45 - Minesweeper.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\bin\Debug\net8.0\45 - Minesweeper.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\bin\Debug\net8.0\45 - Minesweeper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\bin\Debug\net8.0\45 - Minesweeper.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\refint\45 - Minesweeper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\45 - Minesweeper.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\45 - Minesweeper\obj\Debug\net8.0\ref\45 - Minesweeper.dll

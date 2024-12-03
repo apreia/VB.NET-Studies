@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\bin\Debug\net8.0\44 - Nucleotide Count.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\bin\Debug\net8.0\44 - Nucleotide Count.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\bin\Debug\net8.0\44 - Nucleotide Count.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\bin\Debug\net8.0\44 - Nucleotide Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\bin\Debug\net8.0\44 - Nucleotide Count.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\refint\44 - Nucleotide Count.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\44 - Nucleotide Count.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\44 - Nucleotide Count\obj\Debug\net8.0\ref\44 - Nucleotide Count.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\bin\Debug\net8.0\42 - Pangram.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\bin\Debug\net8.0\42 - Pangram.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\bin\Debug\net8.0\42 - Pangram.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\bin\Debug\net8.0\42 - Pangram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\bin\Debug\net8.0\42 - Pangram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\refint\42 - Pangram.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\42 - Pangram.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\42 - Pangram\obj\Debug\net8.0\ref\42 - Pangram.dll

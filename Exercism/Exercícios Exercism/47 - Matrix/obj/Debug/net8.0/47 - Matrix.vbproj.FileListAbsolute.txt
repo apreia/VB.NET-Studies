@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\bin\Debug\net8.0\47 - Matrix.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\bin\Debug\net8.0\47 - Matrix.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\bin\Debug\net8.0\47 - Matrix.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\bin\Debug\net8.0\47 - Matrix.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\bin\Debug\net8.0\47 - Matrix.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\refint\47 - Matrix.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\47 - Matrix.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\47 - Matrix\obj\Debug\net8.0\ref\47 - Matrix.dll

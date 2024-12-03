@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\bin\Debug\net8.0\41 - Parallel Letter Frequency.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\bin\Debug\net8.0\41 - Parallel Letter Frequency.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\bin\Debug\net8.0\41 - Parallel Letter Frequency.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\bin\Debug\net8.0\41 - Parallel Letter Frequency.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\bin\Debug\net8.0\41 - Parallel Letter Frequency.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\refint\41 - Parallel Letter Frequency.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\41 - Parallel Letter Frequency.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\41 - Parallel Letter Frequency\obj\Debug\net8.0\ref\41 - Parallel Letter Frequency.dll

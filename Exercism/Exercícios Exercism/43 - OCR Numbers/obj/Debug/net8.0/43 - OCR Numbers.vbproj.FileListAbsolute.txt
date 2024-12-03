@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\bin\Debug\net8.0\43 - OCR Numbers.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\bin\Debug\net8.0\43 - OCR Numbers.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\bin\Debug\net8.0\43 - OCR Numbers.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\bin\Debug\net8.0\43 - OCR Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\bin\Debug\net8.0\43 - OCR Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\refint\43 - OCR Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\43 - OCR Numbers.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\43 - OCR Numbers\obj\Debug\net8.0\ref\43 - OCR Numbers.dll

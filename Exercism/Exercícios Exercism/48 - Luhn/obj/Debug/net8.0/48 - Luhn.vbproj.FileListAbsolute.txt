@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\bin\Debug\net8.0\48 - Luhn.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\bin\Debug\net8.0\48 - Luhn.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\bin\Debug\net8.0\48 - Luhn.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\bin\Debug\net8.0\48 - Luhn.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\bin\Debug\net8.0\48 - Luhn.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\refint\48 - Luhn.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\48 - Luhn.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\48 - Luhn\obj\Debug\net8.0\ref\48 - Luhn.dll
