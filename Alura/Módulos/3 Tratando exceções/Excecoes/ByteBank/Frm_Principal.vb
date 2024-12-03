@@ -1,4 +1,5 @@
-﻿Imports ByteBank.Classes
+﻿Imports System.Diagnostics.Eventing.Reader
+Imports ByteBank.Classes
 
 Public Class Frm_Principal
     Public Sub New()
@@ -9,6 +10,9 @@ Public Class Frm_Principal
         ' Adicione qualquer inicialização após a chamada InitializeComponent().
         Text = "Projeto ByteBank"
         Lbl_Principal.Text = "Projeto ByteBank"
+        Lbl_Denominador.Text = "Digite o Denominador"
+        Lbl_Agencia.Text = "Agencia"
+        Lbl_Conta.Text = "Conta"
 
     End Sub
 
@@ -100,6 +104,23 @@ Public Class Frm_Principal
     End Function
 
     Private Sub Vídeo04ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Vídeo04ToolStripMenuItem.Click
-        Dim Conta As New ContaCorrente(277, 234332)
+        Try
+            Dim vAgencia As Integer = Val(Txt_Agencia.Text)
+            Dim vConta As Integer = Val(Txt_Conta.Text)
+
+            Dim Conta As New ContaCorrente(vAgencia, vConta)
+
+            MsgBox("O código da agencia e conta são " + Conta.Agencia.ToString = " - " + Conta.Numero.ToString)
+        Catch ex As ArgumentException
+            MsgBox(ex.Message)
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Vídeo05ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Vídeo05ToolStripMenuItem.Click
+        Dim f As New Frm_Video05
+        f.ShowDialog()
     End Sub
 End Class

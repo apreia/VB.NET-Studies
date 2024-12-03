@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\contacorrente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\contacorrente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Frm_Video05.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeToolTip": "ByteBank\\Frm_Video05.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T20:07:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Video05.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb [Projeto]",
+              "RelativeToolTip": "ByteBank\\Frm_Video05.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T20:07:09.57Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ContaCorrente.vb",
               "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
               "RelativeDocumentMoniker": "ByteBank\\Classes\\ContaCorrente.vb",
               "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
               "RelativeToolTip": "ByteBank\\Classes\\ContaCorrente.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-29T20:05:33.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Cliente.vb",
               "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\Cliente.vb",
               "RelativeDocumentMoniker": "ByteBank\\Classes\\Cliente.vb",
@@ -51,25 +84,24 @@
               "RelativeToolTip": "ByteBank\\Classes\\Cliente.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-29T20:02:28.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:02:28.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Frm_Principal.vb",
               "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
               "RelativeDocumentMoniker": "ByteBank\\Frm_Principal.vb",
               "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
               "RelativeToolTip": "ByteBank\\Frm_Principal.vb",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAEwF8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv30AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-29T20:00:10.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Frm_Principal.vb [Projeto]",
               "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
               "RelativeDocumentMoniker": "ByteBank\\Frm_Principal.vb",

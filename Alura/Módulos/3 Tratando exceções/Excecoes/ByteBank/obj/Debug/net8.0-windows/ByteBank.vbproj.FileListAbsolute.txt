@@ -14,3 +14,4 @@ C:\Users\IMP-TI-04\source\repos\Excecoes\ByteBank\obj\Debug\net8.0-windows\refin
 C:\Users\IMP-TI-04\source\repos\Excecoes\ByteBank\obj\Debug\net8.0-windows\ByteBank.pdb
 C:\Users\IMP-TI-04\source\repos\Excecoes\ByteBank\obj\Debug\net8.0-windows\ByteBank.genruntimeconfig.cache
 C:\Users\IMP-TI-04\source\repos\Excecoes\ByteBank\obj\Debug\net8.0-windows\ref\ByteBank.dll
+C:\Users\IMP-TI-04\source\repos\Excecoes\ByteBank\obj\Debug\net8.0-windows\ByteBank.Frm_Video05.resources

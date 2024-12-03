@@ -4,5 +4,8 @@
     <Compile Update="Frm_Principal.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Frm_Video05.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

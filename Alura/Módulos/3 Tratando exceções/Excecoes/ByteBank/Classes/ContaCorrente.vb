@@ -37,29 +37,42 @@
 #End Region
 
 #Region "CONSTRUTORES"
-        Public Sub New(_Agencia As Integer, _numero As Integer)
-            Agencia = _Agencia
-            Numero = _numero
+        Public Sub New(CodigoAgencia As Integer, NumeroConta As Integer)
+            If (CodigoAgencia <= 0) Then
+                Dim vParametro As String
+                vParametro = NameOf(CodigoAgencia)
 
-            m_TaxaOperacao = 30 / m_TotalDeContasCriadas
+                Dim Erro As New ArgumentException("Código da agencia menor que zero", vParametro)
+                Throw Erro
+
+            ElseIf (NumeroConta <= 0) Then
+                Dim vParametro As String
+                vParametro = NameOf(NumeroConta)
+
+                Dim Erro As New ArgumentException("Código da conta menor que zero", vParametro)
+                Throw Erro
+            End If
+
+            Agencia = CodigoAgencia
+            Numero = NumeroConta
 
             m_TotalDeContasCriadas += 1
+            m_TaxaOperacao = 30 / m_TotalDeContasCriadas
         End Sub
 #End Region
 
 #Region "MÉTODOS"
-        Public Function Sacar(valorSacado As Double) As Boolean
-            Dim vRetorno As Boolean
-
+        Public Sub Sacar(valorSacado As Double)
             If m_saldo < valorSacado Then
-                vRetorno = False
+                Dim x As Integer = 1
+                Dim y As Integer = 0
+                Dim z As Integer = x / y
+
+                Throw New Exception("Valor a ser sacado é maior que o saldo")
             Else
-                vRetorno = True
                 m_saldo -= valorSacado
             End If
-
-            Return vRetorno
-        End Function
+        End Sub
 
         Public Sub Depositar(valorDepositado As Double)
             m_saldo += valorDepositado
