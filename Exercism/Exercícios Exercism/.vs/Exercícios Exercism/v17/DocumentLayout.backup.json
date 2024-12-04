@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02EB1EC5-1C65-496E-9CEE-A08467DF3A52}|60 - Grains\\60 - Grains.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\60 - grains\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{02EB1EC5-1C65-496E-9CEE-A08467DF3A52}|60 - Grains\\60 - Grains.vbproj|solutionrelative:60 - grains\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{581ADE5C-BC67-408D-BBA5-2B2E30379510}|70 - Darts\\70 - Darts.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\70 - darts\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{581ADE5C-BC67-408D-BBA5-2B2E30379510}|70 - Darts\\70 - Darts.vbproj|solutionrelative:70 - darts\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EB1EC5-1C65-496E-9CEE-A08467DF3A52}|60 - Grains\\60 - Grains.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\60 - grains\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{02EB1EC5-1C65-496E-9CEE-A08467DF3A52}|60 - Grains\\60 - Grains.vbproj|solutionrelative:60 - grains\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{581ADE5C-BC67-408D-BBA5-2B2E30379510}|70 - Darts\\70 - Darts.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\70 - darts\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{581ADE5C-BC67-408D-BBA5-2B2E30379510}|70 - Darts\\70 - Darts.vbproj|solutionrelative:70 - darts\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Module1.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\60 - Grains\\Module1.vb",
-              "RelativeDocumentMoniker": "60 - Grains\\Module1.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\60 - Grains\\Module1.vb",
-              "RelativeToolTip": "60 - Grains\\Module1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\70 - Darts\\Class1.vb",
+              "RelativeDocumentMoniker": "70 - Darts\\Class1.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\70 - Darts\\Class1.vb",
+              "RelativeToolTip": "70 - Darts\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-03T17:39:39.689Z",
+              "WhenOpened": "2024-12-04T12:52:18.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\60 - Grains\\Program.vb",
-              "RelativeDocumentMoniker": "60 - Grains\\Program.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\60 - Grains\\Program.vb",
-              "RelativeToolTip": "60 - Grains\\Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\70 - Darts\\Program.vb",
+              "RelativeDocumentMoniker": "70 - Darts\\Program.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\70 - Darts\\Program.vb",
+              "RelativeToolTip": "70 - Darts\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-03T17:39:23.441Z",
+              "WhenOpened": "2024-12-04T12:50:39.699Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\bin\Debug\net8.0\65 - Bank Account.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\bin\Debug\net8.0\65 - Bank Account.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\bin\Debug\net8.0\65 - Bank Account.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\bin\Debug\net8.0\65 - Bank Account.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\bin\Debug\net8.0\65 - Bank Account.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\refint\65 - Bank Account.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\65 - Bank Account.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\65 - Bank Account\obj\Debug\net8.0\ref\65 - Bank Account.dll

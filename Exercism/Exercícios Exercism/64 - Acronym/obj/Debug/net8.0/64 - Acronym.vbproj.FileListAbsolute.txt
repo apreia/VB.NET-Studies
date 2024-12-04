@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\bin\Debug\net8.0\64 - Acronym.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\bin\Debug\net8.0\64 - Acronym.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\bin\Debug\net8.0\64 - Acronym.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\bin\Debug\net8.0\64 - Acronym.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\bin\Debug\net8.0\64 - Acronym.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\refint\64 - Acronym.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\64 - Acronym.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\64 - Acronym\obj\Debug\net8.0\ref\64 - Acronym.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "67 - Book Store/1.0.0": {
+        "runtime": {
+          "67 - Book Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "67 - Book Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

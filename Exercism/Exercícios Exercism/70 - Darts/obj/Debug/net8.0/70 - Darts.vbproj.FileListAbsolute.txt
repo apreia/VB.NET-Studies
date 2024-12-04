@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\bin\Debug\net8.0\70 - Darts.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\bin\Debug\net8.0\70 - Darts.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\bin\Debug\net8.0\70 - Darts.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\bin\Debug\net8.0\70 - Darts.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\bin\Debug\net8.0\70 - Darts.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\refint\70 - Darts.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\70 - Darts.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\70 - Darts\obj\Debug\net8.0\ref\70 - Darts.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\bin\Debug\net8.0\61 - Food Chain.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\bin\Debug\net8.0\61 - Food Chain.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\bin\Debug\net8.0\61 - Food Chain.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\bin\Debug\net8.0\61 - Food Chain.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\bin\Debug\net8.0\61 - Food Chain.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\refint\61 - Food Chain.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\61 - Food Chain.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\61 - Food Chain\obj\Debug\net8.0\ref\61 - Food Chain.dll

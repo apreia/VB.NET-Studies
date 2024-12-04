@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\bin\Debug\net8.0\63 - ETL.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\bin\Debug\net8.0\63 - ETL.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\bin\Debug\net8.0\63 - ETL.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\bin\Debug\net8.0\63 - ETL.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\bin\Debug\net8.0\63 - ETL.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\refint\63 - ETL.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\63 - ETL.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\63 - ETL\obj\Debug\net8.0\ref\63 - ETL.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\bin\Debug\net8.0\62 - Flatten Array.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\bin\Debug\net8.0\62 - Flatten Array.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\bin\Debug\net8.0\62 - Flatten Array.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\bin\Debug\net8.0\62 - Flatten Array.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\bin\Debug\net8.0\62 - Flatten Array.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\refint\62 - Flatten Array.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\62 - Flatten Array.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\62 - Flatten Array\obj\Debug\net8.0\ref\62 - Flatten Array.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\bin\Debug\net8.0\69 - Difference of Squares.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\bin\Debug\net8.0\69 - Difference of Squares.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\bin\Debug\net8.0\69 - Difference of Squares.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\bin\Debug\net8.0\69 - Difference of Squares.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\bin\Debug\net8.0\69 - Difference of Squares.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\refint\69 - Difference of Squares.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\69 - Difference of Squares.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\69 - Difference of Squares\obj\Debug\net8.0\ref\69 - Difference of Squares.dll

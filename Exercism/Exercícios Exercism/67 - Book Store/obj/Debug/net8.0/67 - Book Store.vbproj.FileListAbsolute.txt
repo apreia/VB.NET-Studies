@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\bin\Debug\net8.0\67 - Book Store.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\bin\Debug\net8.0\67 - Book Store.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\bin\Debug\net8.0\67 - Book Store.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\bin\Debug\net8.0\67 - Book Store.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\bin\Debug\net8.0\67 - Book Store.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\refint\67 - Book Store.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\67 - Book Store.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\67 - Book Store\obj\Debug\net8.0\ref\67 - Book Store.dll

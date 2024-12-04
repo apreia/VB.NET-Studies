@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\bin\Debug\net8.0\68 - Bowling.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\bin\Debug\net8.0\68 - Bowling.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\bin\Debug\net8.0\68 - Bowling.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\bin\Debug\net8.0\68 - Bowling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\bin\Debug\net8.0\68 - Bowling.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\refint\68 - Bowling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\68 - Bowling.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\68 - Bowling\obj\Debug\net8.0\ref\68 - Bowling.dll
