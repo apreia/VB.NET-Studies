@@ -200,6 +200,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 60: Grains**
 > Calcule o número de grãos de trigo em um tabuleiro de xadrez, dado que o número em cada quadrado dobra.
 
+### 🔹 **Exercício 61: Food Chain**
+> Gere a letra da música 'I Know an Old Lady Who Swallowed a Fly'.
+
+### 🔹 **Exercício 62: Flatten Array**
+> Pegue uma lisa aninhada e retorne uma única lista com todos os valores, exceto nil/null.
+
+### 🔹 **Exercício 63: ETL**
+> Altere o formato dos dados para pontuação de um jogo para adicionar outros idiomas com mais facilidade.
+
+### 🔹 **Exercício 64: Acronym**
+> Converta uma frase longa em sua sigla.
+
+### 🔹 **Exercício 65: Bank Account**
+> Simule uma conta bancária que suporte abertura/fechamento, saques e depósitos de dinheiro. Cuidado com transações simultâneas.
+
+### 🔹 **Exercício 66: Beer Song**
+> Produza a letra daquele clássico adorado, aquele favorito das excursões: 99 Battles of Beer on the Wall.
+
+### 🔹 **Exercício 67: Book Store**
+> Para tentar incentivar mais vendas de livros diferentes de uma série popular de 5 livros, uma livraria decidiu oferecer descontos para vários livros.
+
+### 🔹 **Exercício 68: Bowling**
+> Marque um ponto em um jogo de boliche.
+
+### 🔹 **Exercício 69: Difference of Squares**
+> Encontre a diferença entre o quadrado da soma e a soma dos quadrados dos primeiros N números naturais.
+
+### 🔹 **Exercício 70: Darts**
+> Calcule os pontos marcados em um único lançamento de um jogo de dardos.
+
 ---
 
 ## 📁 Estrutura do Repositório
