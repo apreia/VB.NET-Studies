@@ -1,4 +1,6 @@
-﻿Namespace Classes
+﻿Imports System.Globalization
+
+Namespace Classes
     Public Class ContaCorrente
 #Region "PROPRIEDADES"
         Public Property Titular As Cliente
@@ -62,13 +64,16 @@
 #End Region
 
 #Region "MÉTODOS"
-        Public Sub Sacar(valorSacado As Double)
-            If m_saldo < valorSacado Then
-                Dim x As Integer = 1
-                Dim y As Integer = 0
-                Dim z As Integer = x / y
+        Public Sub Sacar(valorSacado As Double, ValorLabel As String)
+            If valorSacado < 0 Then
+                Throw New ArgumentException("Valor " + ValorLabel + " é negativo. " + valorSacado.ToString, NameOf(valorSacado))
+            End If
 
-                Throw New Exception("Valor a ser sacado é maior que o saldo")
+            If m_saldo < valorSacado Then
+                Dim vMensagem As String
+                vMensagem = "Valor " + ValorLabel + " é maior que o saldo"
+
+                Throw New ValorSacadoMenorSaldoException(valorSacado, m_saldo, vMensagem)
             Else
                 m_saldo -= valorSacado
             End If
@@ -78,19 +83,10 @@
             m_saldo += valorDepositado
         End Sub
 
-        Public Function Transferir(valorTransferencia As Double, ContaDestino As ContaCorrente) As Boolean
-            Dim vRetorno As Boolean
-
-            If m_saldo < valorTransferencia Then
-                vRetorno = False
-            Else
-                vRetorno -= valorTransferencia
-                ContaDestino.Depositar(valorTransferencia)
-                vRetorno = True
-            End If
-
-            Return True
-        End Function
+        Public Sub Transferir(valorTransferencia As Double, ContaDestino As ContaCorrente)
+            Sacar(valorTransferencia, "da transferencia")
+            ContaDestino.Depositar(valorTransferencia)
+        End Sub
 #End Region
     End Class
 End Namespace
