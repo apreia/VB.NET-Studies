@@ -230,6 +230,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 70: Darts**
 > Calcule os pontos marcados em um único lançamento de um jogo de dardos.
 
+### 🔹 **Exercício 71: Circular Buffer**
+> Uma estrutra de dados que usa um único buffer de tamanho fixo como se estivesse conectado de ponta a ponta.
+
+### 🔹 **Exercício 72: ISBN Verifier**
+> Verifique se uma determinada sequência é um núermo ISBN-10 válido.
+
+### 🔹 **Exercício 73: Twelve Days**
+> Produza a letra de 'The Twelve Days of Christmas'.
+
+### 🔹 **Exercício 74: Error Handling**
+> Implemente vários tipos de tratamento de erros e gerenciamento de recursos.
+
+### 🔹 **Exercício 75: Yacht**
+> Marque um único lançamento de dados no jogo iate.
+
+### 🔹 **Exercício 76: D&D Character**
+> Gere personagens de Dungeons & Dragons aleatoriamente.
+
+### 🔹 **Exercício 77: Poker**
+> Escolha a(s) melhor(es) mão(s) de uma lista de mãos de pôquer.
+
+### 🔹 **Exercício 78: Resistor Color Trio**
+> Converta códigos de cores, como os usados em resistores, em um rótulo legível por humanos.
+
+### 🔹 **Exercício 79: Zebra Puzzle**
+> Resolva o quebra-cabeça da zebra.
+
+### 🔹 **Exercício 80: Sublist**
+> Escreva uma função para determinar se uma lista é uma sublista de outra lista.
+
 ---
 
 ## 📁 Estrutura do Repositório
