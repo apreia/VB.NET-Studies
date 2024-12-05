@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\bin\Debug\net8.0\59 - Grep.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\bin\Debug\net8.0\59 - Grep.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\bin\Debug\net8.0\59 - Grep.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\bin\Debug\net8.0\59 - Grep.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\bin\Debug\net8.0\59 - Grep.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\refint\59 - Grep.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\59 - Grep.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\59 - Grep\obj\Debug\net8.0\ref\59 - Grep.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\bin\Debug\net8.0\75 - Yacht.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\bin\Debug\net8.0\75 - Yacht.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\bin\Debug\net8.0\75 - Yacht.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\bin\Debug\net8.0\75 - Yacht.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\bin\Debug\net8.0\75 - Yacht.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\refint\75 - Yacht.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\75 - Yacht.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\75 - Yacht\obj\Debug\net8.0\ref\75 - Yacht.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\bin\Debug\net8.0\76 - D&D Character.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\bin\Debug\net8.0\76 - D&D Character.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\bin\Debug\net8.0\76 - D&D Character.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\bin\Debug\net8.0\76 - D&D Character.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\bin\Debug\net8.0\76 - D&D Character.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\refint\76 - D&D Character.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\76 - D&D Character.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\76 - D&D Character\obj\Debug\net8.0\ref\76 - D&D Character.dll

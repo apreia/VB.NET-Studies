@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\bin\Debug\net8.0\79 - Zebra Puzzle.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\bin\Debug\net8.0\79 - Zebra Puzzle.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\bin\Debug\net8.0\79 - Zebra Puzzle.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\bin\Debug\net8.0\79 - Zebra Puzzle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\bin\Debug\net8.0\79 - Zebra Puzzle.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\refint\79 - Zebra Puzzle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\79 - Zebra Puzzle.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\79 - Zebra Puzzle\obj\Debug\net8.0\ref\79 - Zebra Puzzle.dll

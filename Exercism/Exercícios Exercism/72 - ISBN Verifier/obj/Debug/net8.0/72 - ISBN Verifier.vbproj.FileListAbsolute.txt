@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\bin\Debug\net8.0\72 - ISBN Verifier.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\bin\Debug\net8.0\72 - ISBN Verifier.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\bin\Debug\net8.0\72 - ISBN Verifier.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\bin\Debug\net8.0\72 - ISBN Verifier.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\bin\Debug\net8.0\72 - ISBN Verifier.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\refint\72 - ISBN Verifier.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\72 - ISBN Verifier.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\72 - ISBN Verifier\obj\Debug\net8.0\ref\72 - ISBN Verifier.dll

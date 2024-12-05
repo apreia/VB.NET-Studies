@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\bin\Debug\net8.0\80 - Sublist.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\bin\Debug\net8.0\80 - Sublist.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\bin\Debug\net8.0\80 - Sublist.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\bin\Debug\net8.0\80 - Sublist.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\bin\Debug\net8.0\80 - Sublist.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\refint\80 - Sublist.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\80 - Sublist.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\80 - Sublist\obj\Debug\net8.0\ref\80 - Sublist.dll

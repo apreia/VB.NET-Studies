@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\bin\Debug\net8.0\71 - Circular Buffer.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\bin\Debug\net8.0\71 - Circular Buffer.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\bin\Debug\net8.0\71 - Circular Buffer.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\bin\Debug\net8.0\71 - Circular Buffer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\bin\Debug\net8.0\71 - Circular Buffer.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\refint\71 - Circular Buffer.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\71 - Circular Buffer.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\71 - Circular Buffer\obj\Debug\net8.0\ref\71 - Circular Buffer.dll

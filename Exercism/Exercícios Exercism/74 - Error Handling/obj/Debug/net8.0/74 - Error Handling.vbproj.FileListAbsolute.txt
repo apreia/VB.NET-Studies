@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\bin\Debug\net8.0\74 - Error Handling.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\bin\Debug\net8.0\74 - Error Handling.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\bin\Debug\net8.0\74 - Error Handling.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\bin\Debug\net8.0\74 - Error Handling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\bin\Debug\net8.0\74 - Error Handling.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\refint\74 - Error Handling.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\74 - Error Handling.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\74 - Error Handling\obj\Debug\net8.0\ref\74 - Error Handling.dll

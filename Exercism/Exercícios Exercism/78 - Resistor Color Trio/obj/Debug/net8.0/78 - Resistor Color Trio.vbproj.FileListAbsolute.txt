@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\bin\Debug\net8.0\78 - Resistor Color Trio.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\bin\Debug\net8.0\78 - Resistor Color Trio.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\bin\Debug\net8.0\78 - Resistor Color Trio.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\bin\Debug\net8.0\78 - Resistor Color Trio.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\bin\Debug\net8.0\78 - Resistor Color Trio.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\refint\78 - Resistor Color Trio.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\78 - Resistor Color Trio.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\78 - Resistor Color Trio\obj\Debug\net8.0\ref\78 - Resistor Color Trio.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\bin\Debug\net8.0\77 - Poker.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\bin\Debug\net8.0\77 - Poker.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\bin\Debug\net8.0\77 - Poker.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\bin\Debug\net8.0\77 - Poker.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\bin\Debug\net8.0\77 - Poker.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\refint\77 - Poker.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\77 - Poker.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\77 - Poker\obj\Debug\net8.0\ref\77 - Poker.dll

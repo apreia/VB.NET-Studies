@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\bin\Debug\net8.0\73 - Twelve Days.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\bin\Debug\net8.0\73 - Twelve Days.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\bin\Debug\net8.0\73 - Twelve Days.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\bin\Debug\net8.0\73 - Twelve Days.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\bin\Debug\net8.0\73 - Twelve Days.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\refint\73 - Twelve Days.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\73 - Twelve Days.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\73 - Twelve Days\obj\Debug\net8.0\ref\73 - Twelve Days.dll

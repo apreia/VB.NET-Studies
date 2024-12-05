@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75076C9F-A66D-4595-8DBB-771950EEAA97}|80 - Sublist\\80 - Sublist.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\80 - sublist\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75076C9F-A66D-4595-8DBB-771950EEAA97}|80 - Sublist\\80 - Sublist.vbproj|solutionrelative:80 - sublist\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75076C9F-A66D-4595-8DBB-771950EEAA97}|80 - Sublist\\80 - Sublist.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\80 - sublist\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75076C9F-A66D-4595-8DBB-771950EEAA97}|80 - Sublist\\80 - Sublist.vbproj|solutionrelative:80 - sublist\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\80 - Sublist\\Module1.vb",
+              "RelativeDocumentMoniker": "80 - Sublist\\Module1.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\80 - Sublist\\Module1.vb",
+              "RelativeToolTip": "80 - Sublist\\Module1.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:50:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\80 - Sublist\\Program.vb",
+              "RelativeDocumentMoniker": "80 - Sublist\\Program.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\80 - Sublist\\Program.vb",
+              "RelativeToolTip": "80 - Sublist\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:49:51.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
