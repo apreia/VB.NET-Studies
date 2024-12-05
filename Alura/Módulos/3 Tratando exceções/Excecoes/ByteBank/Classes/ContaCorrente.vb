@@ -7,6 +7,26 @@ Namespace Classes
 
         Public ReadOnly Property Numero As Integer
 
+        Private m_NumeroSaquesErrados As Integer
+        Public Property NumeroSaquesErrados As Integer
+            Get
+                Return m_NumeroSaquesErrados
+            End Get
+            Private Set(value As Integer)
+                m_NumeroSaquesErrados = value
+            End Set
+        End Property
+
+        Private m_NumeroTransferenciasErradas As Integer
+        Public Property NumeroTransferenciasErradas As Integer
+            Get
+                Return m_NumeroTransferenciasErradas
+            End Get
+            Private Set(value As Integer)
+                m_NumeroTransferenciasErradas = value
+            End Set
+        End Property
+
         Private Shared m_TaxaOperacao As Integer
         Public Shared ReadOnly Property TaxaOperacao As Integer
             Get
@@ -66,6 +86,7 @@ Namespace Classes
 #Region "MÉTODOS"
         Public Sub Sacar(valorSacado As Double, ValorLabel As String)
             If valorSacado < 0 Then
+                m_NumeroSaquesErrados += 1
                 Throw New ArgumentException("Valor " + ValorLabel + " é negativo. " + valorSacado.ToString, NameOf(valorSacado))
             End If
 
@@ -73,6 +94,7 @@ Namespace Classes
                 Dim vMensagem As String
                 vMensagem = "Valor " + ValorLabel + " é maior que o saldo"
 
+                m_NumeroSaquesErrados += 1
                 Throw New ValorSacadoMenorSaldoException(valorSacado, m_saldo, vMensagem)
             Else
                 m_saldo -= valorSacado
@@ -84,7 +106,18 @@ Namespace Classes
         End Sub
 
         Public Sub Transferir(valorTransferencia As Double, ContaDestino As ContaCorrente)
-            Sacar(valorTransferencia, "da transferencia")
+            Try
+                Sacar(valorTransferencia, "da transferencia")
+            Catch ex As ValorSacadoMenorSaldoException
+                m_NumeroTransferenciasErradas += 1
+                Throw New OperacaoFinanceiraException("Operação Inválida", ex)
+
+            Catch ex As ArgumentException
+                m_NumeroTransferenciasErradas += 1
+                Throw
+
+            End Try
+
             ContaDestino.Depositar(valorTransferencia)
         End Sub
 #End Region

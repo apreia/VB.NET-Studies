@@ -1,4 +1,5 @@
-﻿Imports ByteBank.Classes
+﻿Imports System.ComponentModel
+Imports ByteBank.Classes
 
 Public Class Frm_Video05
     Dim Conta As New ContaCorrente(237, 144422)
@@ -22,9 +23,11 @@ Public Class Frm_Video05
         Lbl_ContaCorrente2.Text = "Conta: " + Conta2.Agencia.ToString + " - " + Conta2.Numero.ToString
         Lbl_Saldo.Text = "Saldo da conta = " + Conta.Saldo.ToString
         Lbl_Saldo2.Text = "Saldo da conta = " + Conta2.Saldo.ToString
-        Btm_Transferir.Text = "Trasnferir"
+        Btm_Transferir.Text = "Transferir"
         Btm_Stack.Text = "Ver StackTrace"
         Txt_Stack.Visible = False
+        Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+        Lbl_TransferErrados.Text = "Num. Trasnfer Errados: " + Conta.NumeroTransferenciasErradas.ToString
 
     End Sub
 
@@ -40,10 +43,14 @@ Public Class Frm_Video05
             Lbl_Saldo.Text = "Saldo da conta = " + Conta.Saldo.ToString
 
         Catch ex As ValorSacadoMenorSaldoException
+            Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+
             vStack = ex.StackTrace
             MsgBox("Ocorreu um erro ValorSacadoMenorSaldoException: " + ex.Message + ". Valor Saque de " + ex.ValorSacado.ToString + ". Saldo de " + ex.Saldo.ToString)
 
         Catch ex As ArgumentException
+            Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+
             vStack = ex.StackTrace
             MsgBox("Ocorreu um erro ArgumentException: " + ex.Message)
 
@@ -61,17 +68,34 @@ Public Class Frm_Video05
             Lbl_Saldo.Text = "Saldo da conta = " + Conta.Saldo.ToString
             Lbl_Saldo2.Text = "Saldo da conta2 = " + Conta2.Saldo.ToString
 
+        Catch ex As OperacaoFinanceiraException
+
+            Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+            Lbl_TransferErrados.Text = "Num. Trasnfer Errados: " + Conta.NumeroTransferenciasErradas.ToString
+
+            vStack = ex.StackTrace
+            vStack += ex.InnerException.StackTrace
+            MsgBox("Ocorreu um erro OperacaoFinanceiraException: " + ex.Message)
+
         Catch ex As ValorSacadoMenorSaldoException
+            Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+            Lbl_TransferErrados.Text = "Num. Trasnfer Errados: " + Conta.NumeroTransferenciasErradas.ToString
+
             vStack = ex.StackTrace
             MsgBox("Ocorreu um erro ValorSacadoMenorSaldoException: " + ex.Message + ". Valor da Transferencia " + ex.ValorSacado.ToString + ". Saldo de " + ex.Saldo.ToString)
 
         Catch ex As ArgumentException
+            Lbl_SaquesErrados.Text = "Num. Saques Errados: " + Conta.NumeroSaquesErrados.ToString
+            Lbl_TransferErrados.Text = "Num. Trasnfer Errados: " + Conta.NumeroTransferenciasErradas.ToString
+
             vStack = ex.StackTrace
             MsgBox("Ocorreu um erro ArgumentException: " + ex.Message)
 
         Catch ex As Exception
-            vStack = ex.StackTrace
-            MsgBox("Ocorreu um erro Exception: " + ex.Message)
+            vStack = ex.StackTrace + vbCrLf
+            vStack += ex.InnerException.StackTrace
+
+            MsgBox("Ocorreu um erro Exception: " + ex.Message + " - Erro original Interno: " + ex.InnerException.Message)
         End Try
     End Sub
 

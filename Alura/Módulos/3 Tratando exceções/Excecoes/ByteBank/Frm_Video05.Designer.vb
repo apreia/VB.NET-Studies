@@ -25,6 +25,7 @@ Partial Class Frm_Video05
         Lbl_Video05 = New Label()
         Btm_Fechar = New Button()
         Grp_Movimentacao = New GroupBox()
+        Lbl_SaquesErrados = New Label()
         Lbl_Saldo2 = New Label()
         Btm_Transferir = New Button()
         Lbl_Saldo = New Label()
@@ -35,6 +36,7 @@ Partial Class Frm_Video05
         Lbl_ContaCorrente2 = New Label()
         Btm_Stack = New Button()
         Txt_Stack = New TextBox()
+        Lbl_TransferErrados = New Label()
         Grp_Movimentacao.SuspendLayout()
         SuspendLayout()
         ' 
@@ -58,6 +60,8 @@ Partial Class Frm_Video05
         ' 
         ' Grp_Movimentacao
         ' 
+        Grp_Movimentacao.Controls.Add(Lbl_TransferErrados)
+        Grp_Movimentacao.Controls.Add(Lbl_SaquesErrados)
         Grp_Movimentacao.Controls.Add(Lbl_Saldo2)
         Grp_Movimentacao.Controls.Add(Btm_Transferir)
         Grp_Movimentacao.Controls.Add(Lbl_Saldo)
@@ -66,10 +70,19 @@ Partial Class Frm_Video05
         Grp_Movimentacao.Controls.Add(Lbl_Movimentacao)
         Grp_Movimentacao.Location = New Point(12, 66)
         Grp_Movimentacao.Name = "Grp_Movimentacao"
-        Grp_Movimentacao.Size = New Size(411, 102)
+        Grp_Movimentacao.Size = New Size(411, 131)
         Grp_Movimentacao.TabIndex = 2
         Grp_Movimentacao.TabStop = False
         Grp_Movimentacao.Text = "GroupBox1"
+        ' 
+        ' Lbl_SaquesErrados
+        ' 
+        Lbl_SaquesErrados.AutoSize = True
+        Lbl_SaquesErrados.Location = New Point(6, 104)
+        Lbl_SaquesErrados.Name = "Lbl_SaquesErrados"
+        Lbl_SaquesErrados.Size = New Size(41, 15)
+        Lbl_SaquesErrados.TabIndex = 6
+        Lbl_SaquesErrados.Text = "Label1"
         ' 
         ' Lbl_Saldo2
         ' 
@@ -143,7 +156,7 @@ Partial Class Frm_Video05
         ' 
         ' Btm_Stack
         ' 
-        Btm_Stack.Location = New Point(12, 174)
+        Btm_Stack.Location = New Point(12, 203)
         Btm_Stack.Name = "Btm_Stack"
         Btm_Stack.Size = New Size(130, 23)
         Btm_Stack.TabIndex = 5
@@ -152,18 +165,27 @@ Partial Class Frm_Video05
         ' 
         ' Txt_Stack
         ' 
-        Txt_Stack.Location = New Point(12, 203)
+        Txt_Stack.Location = New Point(12, 232)
         Txt_Stack.Multiline = True
         Txt_Stack.Name = "Txt_Stack"
         Txt_Stack.ScrollBars = ScrollBars.Vertical
         Txt_Stack.Size = New Size(411, 123)
         Txt_Stack.TabIndex = 6
         ' 
+        ' Lbl_TransferErrados
+        ' 
+        Lbl_TransferErrados.AutoSize = True
+        Lbl_TransferErrados.Location = New Point(146, 104)
+        Lbl_TransferErrados.Name = "Lbl_TransferErrados"
+        Lbl_TransferErrados.Size = New Size(41, 15)
+        Lbl_TransferErrados.TabIndex = 7
+        Lbl_TransferErrados.Text = "Label1"
+        ' 
         ' Frm_Video05
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(530, 338)
+        ClientSize = New Size(530, 367)
         Controls.Add(Txt_Stack)
         Controls.Add(Btm_Stack)
         Controls.Add(Lbl_ContaCorrente2)
@@ -193,4 +215,6 @@ Partial Class Frm_Video05
     Friend WithEvents Lbl_Saldo2 As Label
     Friend WithEvents Btm_Stack As Button
     Friend WithEvents Txt_Stack As TextBox
+    Friend WithEvents Lbl_SaquesErrados As Label
+    Friend WithEvents Lbl_TransferErrados As Label
 End Class

@@ -1,6 +1,6 @@
 ﻿Namespace Classes
     Public Class ValorSacadoMenorSaldoException
-        Inherits Exception
+        Inherits OperacaoFinanceiraException
 #Region "PROPRIEDADES"
         Public ReadOnly Property ValorSacado As Double
         Public ReadOnly Property Saldo As Double
@@ -21,6 +21,10 @@
             MyBase.New(message)
 
             ' Algum tipo de implementação
+        End Sub
+
+        Sub New(Message As String, excecaoInterna As Exception)
+            MyBase.New(Message, excecaoInterna)
         End Sub
     End Class
 #End Region

@@ -1,4 +1,5 @@
 ﻿Imports System.Diagnostics.Eventing.Reader
+Imports System.IO
 Imports ByteBank.Classes
 
 Public Class Frm_Principal
@@ -122,5 +123,39 @@ Public Class Frm_Principal
     Private Sub Vídeo05ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Vídeo05ToolStripMenuItem.Click
         Dim f As New Frm_Video05
         f.ShowDialog()
+    End Sub
+
+    Private Sub Vídeo06ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Vídeo06ToolStripMenuItem.Click
+        Try
+            LeituraArquivo()
+        Catch ex As Exception
+            Console.WriteLine("Erro no arquivo")
+
+        End Try
+    End Sub
+
+    Sub LeituraArquivo()
+        Using X As New LeitorDeArquivo("ContaCorrente.txt")
+            X.LeituraLinha()
+            X.LeituraLinha()
+            X.LeituraLinha()
+            X.LeituraLinha()
+            X.LeituraLinha()
+        End Using
+
+        'Dim X As LeitorDeArquivo
+        'Try
+        '    X = New LeitorDeArquivo("ContaCorrente.txt")
+        '    X.LeituraLinha()
+        '    X.LeituraLinha()
+        '    X.LeituraLinha()
+        '    X.LeituraLinha()
+        '    X.LeituraLinha()
+
+        'Finally
+        '    If Not (X Is Nothing) Then
+        '        X.FecharArquivo()
+        '    End If
+        'End Try
     End Sub
 End Class

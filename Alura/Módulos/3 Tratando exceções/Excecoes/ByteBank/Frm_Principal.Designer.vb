@@ -31,6 +31,7 @@ Partial Class Frm_Principal
         Aula02ToolStripMenuItem = New ToolStripMenuItem()
         Vídeo04ToolStripMenuItem = New ToolStripMenuItem()
         Aula03ToolStripMenuItem = New ToolStripMenuItem()
+        Vídeo05ToolStripMenuItem = New ToolStripMenuItem()
         Txt_Denominador = New TextBox()
         Lbl_Denominador = New Label()
         Lbl_Agencia = New Label()
@@ -39,7 +40,8 @@ Partial Class Frm_Principal
         Txt_Conta = New TextBox()
         Txt_Agencia = New TextBox()
         Lbl_Conta = New Label()
-        Vídeo05ToolStripMenuItem = New ToolStripMenuItem()
+        Aula04ToolStripMenuItem = New ToolStripMenuItem()
+        Vídeo06ToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
         Grp_DivisaoZero.SuspendLayout()
         Grp_AgenciaConta.SuspendLayout()
@@ -56,7 +58,7 @@ Partial Class Frm_Principal
         ' 
         ' MenuStrip1
         ' 
-        MenuStrip1.Items.AddRange(New ToolStripItem() {Aula01ToolStripMenuItem, Aula02ToolStripMenuItem, Aula03ToolStripMenuItem})
+        MenuStrip1.Items.AddRange(New ToolStripItem() {Aula01ToolStripMenuItem, Aula02ToolStripMenuItem, Aula03ToolStripMenuItem, Aula04ToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
         MenuStrip1.Size = New Size(414, 24)
@@ -107,6 +109,12 @@ Partial Class Frm_Principal
         Aula03ToolStripMenuItem.Name = "Aula03ToolStripMenuItem"
         Aula03ToolStripMenuItem.Size = New Size(58, 20)
         Aula03ToolStripMenuItem.Text = "Aula 03"
+        ' 
+        ' Vídeo05ToolStripMenuItem
+        ' 
+        Vídeo05ToolStripMenuItem.Name = "Vídeo05ToolStripMenuItem"
+        Vídeo05ToolStripMenuItem.Size = New Size(119, 22)
+        Vídeo05ToolStripMenuItem.Text = "Vídeo 05"
         ' 
         ' Txt_Denominador
         ' 
@@ -178,11 +186,18 @@ Partial Class Frm_Principal
         Lbl_Conta.TabIndex = 5
         Lbl_Conta.Text = "Label1"
         ' 
-        ' Vídeo05ToolStripMenuItem
+        ' Aula04ToolStripMenuItem
         ' 
-        Vídeo05ToolStripMenuItem.Name = "Vídeo05ToolStripMenuItem"
-        Vídeo05ToolStripMenuItem.Size = New Size(180, 22)
-        Vídeo05ToolStripMenuItem.Text = "Vídeo 05"
+        Aula04ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {Vídeo06ToolStripMenuItem})
+        Aula04ToolStripMenuItem.Name = "Aula04ToolStripMenuItem"
+        Aula04ToolStripMenuItem.Size = New Size(58, 20)
+        Aula04ToolStripMenuItem.Text = "Aula 04"
+        ' 
+        ' Vídeo06ToolStripMenuItem
+        ' 
+        Vídeo06ToolStripMenuItem.Name = "Vídeo06ToolStripMenuItem"
+        Vídeo06ToolStripMenuItem.Size = New Size(180, 22)
+        Vídeo06ToolStripMenuItem.Text = "Vídeo 06"
         ' 
         ' Frm_Principal
         ' 
@@ -225,5 +240,7 @@ Partial Class Frm_Principal
     Friend WithEvents Txt_Agencia As TextBox
     Friend WithEvents Aula03ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Vídeo05ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Aula04ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Vídeo06ToolStripMenuItem As ToolStripMenuItem
 
 End Class
