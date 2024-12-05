@@ -27,6 +27,14 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Conhecer o modificador de visibilidade **protected**.
 
 - **3 Entendendo exceções**  
+  Neste módulo, apresenta os conceitos essenciais para lidar com erros e exceções em **VB.NET**, garantindo que o programa lide adequadamente com situações inesperadas. As principais abordagens incluem:  
+  - Conhecer a **pilha de chamadas** para entender o rastreamento de erros.  
+  - Entender o tratamento de **exceções**, diferenciando erros em tempo de execução e erros de lógica.  
+  - Criar suas próprias **exceções personalizadas**, melhorando a legibilidade e manutenção do código.  
+  - Utilizar o bloco **Try/Catch/Finally** para capturar e tratar exceções.  
+  - Usar o bloco **Using** para gerenciar recursos automaticamente e evitar vazamentos de memória.  
+  - Compreender a interface **IDisposable** e sua importância no gerenciamento de recursos.
+
 - **4 Bibliotecas, documentação e Nuget**  
 - **5 Manipulando Strings, expressões regulares e a classe Object**  
 - **6 Arrays e Tipos Genéricos**  
