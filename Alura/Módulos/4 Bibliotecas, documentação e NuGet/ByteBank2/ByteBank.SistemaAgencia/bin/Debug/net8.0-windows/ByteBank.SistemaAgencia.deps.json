@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ByteBank.SistemaAgencia/1.0.0": {
+        "dependencies": {
+          "ByteBank.Bibliotecas": "1.0.0"
+        },
+        "runtime": {
+          "ByteBank.SistemaAgencia.dll": {}
+        }
+      },
+      "ByteBank.Bibliotecas/1.0.0": {
+        "runtime": {
+          "ByteBank.Bibliotecas.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBank.SistemaAgencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ByteBank.Bibliotecas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

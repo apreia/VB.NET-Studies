@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4260E2D-32A6-494D-9E78-20C9125C9629}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank2\\bytebank.sistemaagencia\\classes\\estagiario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B4260E2D-32A6-494D-9E78-20C9125C9629}|ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.vbproj|solutionrelative:bytebank.sistemaagencia\\classes\\estagiario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estagiario.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank2\\ByteBank.SistemaAgencia\\Classes\\Estagiario.vb",
+              "RelativeDocumentMoniker": "ByteBank.SistemaAgencia\\Classes\\Estagiario.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank2\\ByteBank.SistemaAgencia\\Classes\\Estagiario.vb",
+              "RelativeToolTip": "ByteBank.SistemaAgencia\\Classes\\Estagiario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T20:31:51.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
