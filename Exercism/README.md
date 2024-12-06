@@ -260,6 +260,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 80: Sublist**
 > Escreva uma função para determinar se uma lista é uma sublista de outra lista.
 
+### 🔹 **Exercício 81: Binary Search**
+> Implementar um algoritimo de busca binária.
+
+### 🔹 **Exercício 82: Queen Attack**
+> Dada a posição de duas rainhas em um tabuleiro de xadrez, indique se elas estão ou não posicionadas de modo que possam atacar uma à outra.
+
+### 🔹 **Exercício 83: Say**
+> Dado um número de 0 a 999.999.999.999, escreva um número em inglês.
+
+### 🔹 **Exercício 84: Grade School**
+> Dados os nomes dos alunos e a série em que estão, crie uma lista para a escola.
+
+### 🔹 **Exercício 85: Change**
+> Determine corretamente o troco a ser dado usando o menor número de moedas.
+
+### 🔹 **Exercício 86: Roman Numerals**
+> Converta números arábicos modernos em algarismos romanos.
+
+### 🔹 **Exercício 87: Robot Simulator**
+> Escreva um simulador de robô.
+
+### 🔹 **Exercício 88: Triangle**
+> Determine se um triângulo é equilátero, isósceles ou escaleno.
+
+### 🔹 **Exercício 89: Robot Name**
+> Gerenciar configurações de fábrica de robôs.
+
+### 🔹 **Exercício 90: Tree Building**
+> Refatore um algorítmo de construção de árvores.
+
 ---
 
 ## 📁 Estrutura do Repositório
