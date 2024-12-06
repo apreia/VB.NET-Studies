@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\bin\Debug\net8.0\87 - Robot Simulator.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\bin\Debug\net8.0\87 - Robot Simulator.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\bin\Debug\net8.0\87 - Robot Simulator.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\bin\Debug\net8.0\87 - Robot Simulator.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\bin\Debug\net8.0\87 - Robot Simulator.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\refint\87 - Robot Simulator.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\87 - Robot Simulator.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\87 - Robot Simulator\obj\Debug\net8.0\ref\87 - Robot Simulator.dll

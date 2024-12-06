@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\bin\Debug\net8.0\89 - Robot Name.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\bin\Debug\net8.0\89 - Robot Name.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\bin\Debug\net8.0\89 - Robot Name.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\bin\Debug\net8.0\89 - Robot Name.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\bin\Debug\net8.0\89 - Robot Name.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\refint\89 - Robot Name.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\89 - Robot Name.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\89 - Robot Name\obj\Debug\net8.0\ref\89 - Robot Name.dll

@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\bin\Debug\net8.0\86 - Roman Numerals.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\bin\Debug\net8.0\86 - Roman Numerals.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\bin\Debug\net8.0\86 - Roman Numerals.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\bin\Debug\net8.0\86 - Roman Numerals.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\bin\Debug\net8.0\86 - Roman Numerals.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\refint\86 - Roman Numerals.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\86 - Roman Numerals.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\86 - Roman Numerals\obj\Debug\net8.0\ref\86 - Roman Numerals.dll

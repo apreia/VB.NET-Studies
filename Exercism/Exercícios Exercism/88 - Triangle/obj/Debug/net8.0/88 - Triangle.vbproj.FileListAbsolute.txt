@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\bin\Debug\net8.0\88 - Triangle.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\bin\Debug\net8.0\88 - Triangle.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\bin\Debug\net8.0\88 - Triangle.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\bin\Debug\net8.0\88 - Triangle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\bin\Debug\net8.0\88 - Triangle.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\refint\88 - Triangle.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\88 - Triangle.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\88 - Triangle\obj\Debug\net8.0\ref\88 - Triangle.dll

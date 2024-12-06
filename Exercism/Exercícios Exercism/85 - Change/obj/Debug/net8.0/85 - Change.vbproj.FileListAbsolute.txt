@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\bin\Debug\net8.0\85 - Change.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\bin\Debug\net8.0\85 - Change.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\bin\Debug\net8.0\85 - Change.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\bin\Debug\net8.0\85 - Change.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\bin\Debug\net8.0\85 - Change.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\refint\85 - Change.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\85 - Change.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\85 - Change\obj\Debug\net8.0\ref\85 - Change.dll

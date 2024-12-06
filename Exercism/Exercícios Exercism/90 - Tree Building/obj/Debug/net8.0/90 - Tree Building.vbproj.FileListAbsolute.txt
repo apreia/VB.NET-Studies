@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\bin\Debug\net8.0\90 - Tree Building.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\bin\Debug\net8.0\90 - Tree Building.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\bin\Debug\net8.0\90 - Tree Building.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\bin\Debug\net8.0\90 - Tree Building.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\bin\Debug\net8.0\90 - Tree Building.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\refint\90 - Tree Building.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\90 - Tree Building.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\90 - Tree Building\obj\Debug\net8.0\ref\90 - Tree Building.dll

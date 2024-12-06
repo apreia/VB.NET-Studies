@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\bin\Debug\net8.0\83 - Say.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\bin\Debug\net8.0\83 - Say.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\bin\Debug\net8.0\83 - Say.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\bin\Debug\net8.0\83 - Say.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\bin\Debug\net8.0\83 - Say.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\refint\83 - Say.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\83 - Say.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\83 - Say\obj\Debug\net8.0\ref\83 - Say.dll

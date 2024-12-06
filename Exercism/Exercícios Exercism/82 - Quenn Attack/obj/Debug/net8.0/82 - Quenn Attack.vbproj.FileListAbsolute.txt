@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\bin\Debug\net8.0\82 - Quenn Attack.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\bin\Debug\net8.0\82 - Quenn Attack.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\bin\Debug\net8.0\82 - Quenn Attack.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\bin\Debug\net8.0\82 - Quenn Attack.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\bin\Debug\net8.0\82 - Quenn Attack.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\refint\82 - Quenn Attack.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\82 - Quenn Attack.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\82 - Quenn Attack\obj\Debug\net8.0\ref\82 - Quenn Attack.dll
