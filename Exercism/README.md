@@ -290,6 +290,36 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 90: Tree Building**
 > Refatore um algorítmo de construção de árvores.
 
+### 🔹 **Exercício 91: Transpose**
+> Pegue o texto de entrada e transponha-o.
+
+### 🔹 **Exercício 92: Diffie-Hellman**
+> Troca de chaves Diffie-Hellman.
+
+### 🔹 **Exercício 93: Simple Cipher**
+> Implemente uma cifra de deslocamento simples como César e uma cifra de substituição mais segura.
+
+### 🔹 **Exercício 94: Simple Linked List**
+> Escreva uma implementação simples de lista encadeada que use Elementos e uma Lista.
+
+### 🔹 **Exercício 95: REST API**
+> Implemente uma API RESTful para rastrear IOUs.
+
+### 🔹 **Exercício 96: Affine Cipher**
+> Crie uma implementação da cifra Affine, um antigo algoritimo de criptografia do Oriente Médio.
+
+### 🔹 **Exercício 97: Zipper**
+> Criando um ziper para uma árvore binária.
+
+### 🔹 **Exercício 98: Two Bucket**
+> Dados dois baldes de tamanho diferentes, demonstre como medir um número exato de litros.
+
+### 🔹 **Exercício 99: Tournament**
+> Conte os resultados de uma pequena competição de futebol.
+
+### 🔹 **Exercício 100: Armstrong Numbers**
+> Determine se um número é um número de Armstrong.
+
 ---
 
 ## 📁 Estrutura do Repositório
