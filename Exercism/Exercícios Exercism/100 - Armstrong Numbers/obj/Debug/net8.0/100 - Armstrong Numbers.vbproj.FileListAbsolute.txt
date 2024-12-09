@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\bin\Debug\net8.0\100 - Armstrong Numbers.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\bin\Debug\net8.0\100 - Armstrong Numbers.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\bin\Debug\net8.0\100 - Armstrong Numbers.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\bin\Debug\net8.0\100 - Armstrong Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\bin\Debug\net8.0\100 - Armstrong Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\refint\100 - Armstrong Numbers.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\100 - Armstrong Numbers.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\100 - Armstrong Numbers\obj\Debug\net8.0\ref\100 - Armstrong Numbers.dll

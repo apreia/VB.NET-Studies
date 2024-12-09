@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "94 - Simple Linked List/1.0.0": {
+        "runtime": {
+          "94 - Simple Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "94 - Simple Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

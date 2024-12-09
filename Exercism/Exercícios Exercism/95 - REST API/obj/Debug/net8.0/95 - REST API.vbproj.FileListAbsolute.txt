@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\bin\Debug\net8.0\95 - REST API.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\bin\Debug\net8.0\95 - REST API.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\bin\Debug\net8.0\95 - REST API.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\bin\Debug\net8.0\95 - REST API.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\bin\Debug\net8.0\95 - REST API.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\refint\95 - REST API.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\95 - REST API.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\95 - REST API\obj\Debug\net8.0\ref\95 - REST API.dll

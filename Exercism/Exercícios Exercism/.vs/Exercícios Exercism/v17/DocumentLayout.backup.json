@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD35A9D7-CD42-41AA-B39B-BF9BAD74F7BF}|90 - Tree Building\\90 - Tree Building.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\90 - tree building\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AD35A9D7-CD42-41AA-B39B-BF9BAD74F7BF}|90 - Tree Building\\90 - Tree Building.vbproj|solutionrelative:90 - tree building\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{55DBF3EE-7231-464E-A6C8-C90B03503DD4}|100 - Armstrong Numbers\\100 - Armstrong Numbers.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\100 - armstrong numbers\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55DBF3EE-7231-464E-A6C8-C90B03503DD4}|100 - Armstrong Numbers\\100 - Armstrong Numbers.vbproj|solutionrelative:100 - armstrong numbers\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD35A9D7-CD42-41AA-B39B-BF9BAD74F7BF}|90 - Tree Building\\90 - Tree Building.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\90 - tree building\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AD35A9D7-CD42-41AA-B39B-BF9BAD74F7BF}|90 - Tree Building\\90 - Tree Building.vbproj|solutionrelative:90 - tree building\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{55DBF3EE-7231-464E-A6C8-C90B03503DD4}|100 - Armstrong Numbers\\100 - Armstrong Numbers.vbproj|c:\\users\\imp-ti-04\\source\\repos\\exerc\u00EDcios exercism\\100 - armstrong numbers\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55DBF3EE-7231-464E-A6C8-C90B03503DD4}|100 - Armstrong Numbers\\100 - Armstrong Numbers.vbproj|solutionrelative:100 - armstrong numbers\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Module1.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\90 - Tree Building\\Module1.vb",
-              "RelativeDocumentMoniker": "90 - Tree Building\\Module1.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\90 - Tree Building\\Module1.vb",
-              "RelativeToolTip": "90 - Tree Building\\Module1.vb",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFMAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\100 - Armstrong Numbers\\Module1.vb",
+              "RelativeDocumentMoniker": "100 - Armstrong Numbers\\Module1.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\100 - Armstrong Numbers\\Module1.vb",
+              "RelativeToolTip": "100 - Armstrong Numbers\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-06T13:54:43.217Z",
+              "WhenOpened": "2024-12-09T11:58:41.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\90 - Tree Building\\Program.vb",
-              "RelativeDocumentMoniker": "90 - Tree Building\\Program.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\90 - Tree Building\\Program.vb",
-              "RelativeToolTip": "90 - Tree Building\\Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\100 - Armstrong Numbers\\Program.vb",
+              "RelativeDocumentMoniker": "100 - Armstrong Numbers\\Program.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Exerc\u00EDcios Exercism\\100 - Armstrong Numbers\\Program.vb",
+              "RelativeToolTip": "100 - Armstrong Numbers\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-06T13:54:31.202Z",
+              "WhenOpened": "2024-12-09T11:58:27.24Z",
               "EditorCaption": ""
             }
           ]

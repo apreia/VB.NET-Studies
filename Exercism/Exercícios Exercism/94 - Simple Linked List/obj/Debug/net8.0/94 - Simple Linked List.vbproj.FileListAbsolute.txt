@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\bin\Debug\net8.0\94 - Simple Linked List.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\bin\Debug\net8.0\94 - Simple Linked List.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\bin\Debug\net8.0\94 - Simple Linked List.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\bin\Debug\net8.0\94 - Simple Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\bin\Debug\net8.0\94 - Simple Linked List.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\refint\94 - Simple Linked List.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\94 - Simple Linked List.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\94 - Simple Linked List\obj\Debug\net8.0\ref\94 - Simple Linked List.dll

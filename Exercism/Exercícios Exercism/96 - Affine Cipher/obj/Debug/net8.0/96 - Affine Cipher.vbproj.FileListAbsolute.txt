@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\bin\Debug\net8.0\96 - Affine Cipher.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\bin\Debug\net8.0\96 - Affine Cipher.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\bin\Debug\net8.0\96 - Affine Cipher.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\bin\Debug\net8.0\96 - Affine Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\bin\Debug\net8.0\96 - Affine Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\refint\96 - Affine Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\96 - Affine Cipher.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\96 - Affine Cipher\obj\Debug\net8.0\ref\96 - Affine Cipher.dll

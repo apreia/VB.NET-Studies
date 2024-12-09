@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\bin\Debug\net8.0\99 - Tournament.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\bin\Debug\net8.0\99 - Tournament.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\bin\Debug\net8.0\99 - Tournament.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\bin\Debug\net8.0\99 - Tournament.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\bin\Debug\net8.0\99 - Tournament.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\refint\99 - Tournament.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\99 - Tournament.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\99 - Tournament\obj\Debug\net8.0\ref\99 - Tournament.dll

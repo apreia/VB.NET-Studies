@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\bin\Debug\net8.0\98 - Two Bucket.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\bin\Debug\net8.0\98 - Two Bucket.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\bin\Debug\net8.0\98 - Two Bucket.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\bin\Debug\net8.0\98 - Two Bucket.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\bin\Debug\net8.0\98 - Two Bucket.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\refint\98 - Two Bucket.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\98 - Two Bucket.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\98 - Two Bucket\obj\Debug\net8.0\ref\98 - Two Bucket.dll

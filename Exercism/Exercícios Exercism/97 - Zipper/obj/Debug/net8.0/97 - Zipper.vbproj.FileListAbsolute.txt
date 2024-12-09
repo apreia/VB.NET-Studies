@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\bin\Debug\net8.0\97 - Zipper.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\bin\Debug\net8.0\97 - Zipper.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\bin\Debug\net8.0\97 - Zipper.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\bin\Debug\net8.0\97 - Zipper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\bin\Debug\net8.0\97 - Zipper.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\refint\97 - Zipper.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\97 - Zipper.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\97 - Zipper\obj\Debug\net8.0\ref\97 - Zipper.dll

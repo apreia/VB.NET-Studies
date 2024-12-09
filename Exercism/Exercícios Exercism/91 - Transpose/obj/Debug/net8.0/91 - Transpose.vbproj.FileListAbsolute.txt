@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\bin\Debug\net8.0\91 - Transpose.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\bin\Debug\net8.0\91 - Transpose.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\bin\Debug\net8.0\91 - Transpose.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\bin\Debug\net8.0\91 - Transpose.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\bin\Debug\net8.0\91 - Transpose.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\refint\91 - Transpose.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\91 - Transpose.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\91 - Transpose\obj\Debug\net8.0\ref\91 - Transpose.dll

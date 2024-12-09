@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\bin\Debug\net8.0\93 - Simple Cipher.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\bin\Debug\net8.0\93 - Simple Cipher.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\bin\Debug\net8.0\93 - Simple Cipher.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\bin\Debug\net8.0\93 - Simple Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\bin\Debug\net8.0\93 - Simple Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\refint\93 - Simple Cipher.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\93 - Simple Cipher.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\93 - Simple Cipher\obj\Debug\net8.0\ref\93 - Simple Cipher.dll

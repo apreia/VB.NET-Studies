@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\bin\Debug\net8.0\92 - Diffie-Hellman.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\bin\Debug\net8.0\92 - Diffie-Hellman.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\bin\Debug\net8.0\92 - Diffie-Hellman.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\bin\Debug\net8.0\92 - Diffie-Hellman.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\bin\Debug\net8.0\92 - Diffie-Hellman.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\refint\92 - Diffie-Hellman.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\92 - Diffie-Hellman.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\92 - Diffie-Hellman\obj\Debug\net8.0\ref\92 - Diffie-Hellman.dll
