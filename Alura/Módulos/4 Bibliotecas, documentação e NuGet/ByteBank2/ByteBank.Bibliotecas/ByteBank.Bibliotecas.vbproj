@@ -3,6 +3,7 @@
   <PropertyGroup>
     <RootNamespace>ByteBank.Bibliotecas</RootNamespace>
     <TargetFramework>net8.0</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
 </Project>

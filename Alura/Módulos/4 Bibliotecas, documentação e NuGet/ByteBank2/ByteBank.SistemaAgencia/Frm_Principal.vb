@@ -32,4 +32,10 @@
         F.MdiParent = Me
         F.Show()
     End Sub
+
+    Private Sub Vídeo03ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Vídeo03ToolStripMenuItem.Click
+        Dim F As New Frm_CartaoCredito
+        F.MdiParent = Me
+        F.Show()
+    End Sub
 End Class

@@ -19,7 +19,10 @@ Public Class Frm_Secundario
         Dim vAgencia As Integer = Val(Txt_Agencia.Text)
         Dim vContaCorrente As Integer = Val(Txt_ContaCorrente.Text)
 
-        Dim Conta As New ContaCorrente(vAgencia, vContaCorrente)
+        Dim Conta As ContaCorrente = New ContaCorrente(vAgencia, vContaCorrente)
+
+        Dim Conta2 As ContaCorrente = New ContaCorrente(222, 2222222)
+
         Lbl_ContaCorrenteCriada.Text = "Agência: " + vAgencia.ToString + " - Conta: " + vContaCorrente.ToString
     End Sub
 End Class
