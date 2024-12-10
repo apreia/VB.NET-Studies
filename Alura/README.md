@@ -4,7 +4,7 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
 
 ## Estrutura do Repositório
 
-- **1 Primeiros passos com VB.NET**  
+- **1 Primeiros passos com VB.NET**
   Neste módulo, apresenta os conceitos fundamentais para começar a programar em **VB.NET**. As principais abordagens incluem:  
   - Como compilar e executar seu primeiro programa em VB.NET.  
   - Configuração e uso do **Visual Studio**, a principal ferramenta de desenvolvimento para a linguagem.  
@@ -26,7 +26,7 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Aprender **sobrescrita de métodos**.
   - Conhecer o modificador de visibilidade **protected**.
 
-- **3 Entendendo exceções**  
+- **3 Entendendo exceções**
   Neste módulo, apresenta os conceitos essenciais para lidar com erros e exceções em **VB.NET**, garantindo que o programa lide adequadamente com situações inesperadas. As principais abordagens incluem:  
   - Conhecer a **pilha de chamadas** para entender o rastreamento de erros.  
   - Entender o tratamento de **exceções**, diferenciando erros em tempo de execução e erros de lógica.  
