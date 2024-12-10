@@ -35,7 +35,14 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Usar o bloco **Using** para gerenciar recursos automaticamente e evitar vazamentos de memória.  
   - Compreender a interface **IDisposable** e sua importância no gerenciamento de recursos.
 
-- **4 Bibliotecas, documentação e Nuget**  
+- **4 Bibliotecas, documentação e Nuget**
+  Neste módulo, apresenta os conceitos para criar e documentar bibliotecas em **VB.NET**, além de gerenciar pacotes com o **NuGet**. As principais abordagens incluem:  
+  - Criar bibliotecas.  
+  - Entender o que são **DLLs**.  
+  - Usar o **NuGet** para gerenciar pacotes.  
+  - Escrever documentação.  
+  - Entender como gerar arquivos **XML de documentação** para o **Visual Studio** e outras ferramentas.
+
 - **5 Manipulando Strings, expressões regulares e a classe Object**  
 - **6 Arrays e Tipos Genéricos**  
 - **7 Collections**  
