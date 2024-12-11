@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E9360-45F7-4740-AC15-2A639BB9139D}|ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank3\\bytebank.bibliotecas\\classes\\extrairvalordeargumentourl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A99E9360-45F7-4740-AC15-2A639BB9139D}|ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj|solutionrelative:bytebank.bibliotecas\\classes\\extrairvalordeargumentourl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E799CC9-31B7-45A3-A028-CBBBB52F7083}|ByteBank.Sistema\\ByteBank.Sistema.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank3\\bytebank.sistema\\frm_principal2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E799CC9-31B7-45A3-A028-CBBBB52F7083}|ByteBank.Sistema\\ByteBank.Sistema.vbproj|solutionrelative:bytebank.sistema\\frm_principal2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E799CC9-31B7-45A3-A028-CBBBB52F7083}|ByteBank.Sistema\\ByteBank.Sistema.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank3\\bytebank.sistema\\frm_principal2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E799CC9-31B7-45A3-A028-CBBBB52F7083}|ByteBank.Sistema\\ByteBank.Sistema.vbproj|solutionrelative:bytebank.sistema\\frm_principal2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtrairValorDeArgumentoUrl.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
+              "RelativeDocumentMoniker": "ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
+              "RelativeToolTip": "ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T19:30:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Principal2.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Sistema\\Frm_Principal2.vb",
+              "RelativeDocumentMoniker": "ByteBank.Sistema\\Frm_Principal2.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Sistema\\Frm_Principal2.vb",
+              "RelativeToolTip": "ByteBank.Sistema\\Frm_Principal2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T13:13:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Principal2.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Sistema\\Frm_Principal2.vb",
+              "RelativeDocumentMoniker": "ByteBank.Sistema\\Frm_Principal2.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Sistema\\Frm_Principal2.vb [Projeto]",
+              "RelativeToolTip": "ByteBank.Sistema\\Frm_Principal2.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-11T13:12:45.651Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

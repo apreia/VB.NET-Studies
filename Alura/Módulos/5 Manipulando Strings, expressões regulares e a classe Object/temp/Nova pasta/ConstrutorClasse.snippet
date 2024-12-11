@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>ConstrutorClasse</Title>
+      <Author>
+      </Author>
+      <Description>
+      </Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>CONSC</Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="vb" Delimiter="$"><![CDATA[ Public Sub New(urlString As String)
+            If urlString Is Nothing Then
+                Throw New ArgumentNullException(NameOf(urlString), "URL nula")
+            End If
+
+            If urlString = "" Then
+                Throw New ArgumentException("URL vazia", NameOf(urlString))
+            End If
+
+            Url = urlString
+        End Sub]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
