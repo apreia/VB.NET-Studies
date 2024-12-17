@@ -33,7 +33,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.ByteBank.Sistema.Frm_Principal2
+            Me.MainForm = Global.ByteBank.Sistema.Frm_URLs
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _

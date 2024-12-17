@@ -16,7 +16,13 @@
 
             Dim posicaoInterrogacao As Integer
             posicaoInterrogacao = urlString.IndexOf("?")
-            Argumento = urlString.Substring(posicaoInterrogacao + 1)
+
+            If posicaoInterrogacao = -1 Then
+                Argumento = ""
+            Else
+                Argumento = urlString.Substring(posicaoInterrogacao + 1)
+            End If
+
             Dominio = "https://www.bytebank.com.br"
         End Sub
 #End Region
@@ -50,6 +56,36 @@
 
         Public Function IsByteBank() As Boolean
             Return Url.ToLower.StartsWith(Dominio)
+        End Function
+
+        Public Function GetTodosArgumentos() As String
+            If Argumento = "" Then
+                Return ""
+            End If
+
+            Dim VListaArgumentos As String = String.Empty
+
+            Dim vIndex As Integer = Argumento.IndexOf("&")
+
+            If vIndex = -1 Then
+                Return Argumento
+            Else
+                VListaArgumentos = Argumento.Substring(0, vIndex)
+                Dim vArgumentoRestos As String = Argumento.Remove(0, vIndex + 1)
+
+                While vIndex <> -1
+                    vIndex = vArgumentoRestos.IndexOf("&")
+
+                    If vIndex = -1 Then
+                        VListaArgumentos += vbCrLf + vArgumentoRestos
+                    Else
+                        VListaArgumentos += vbCrLf + vArgumentoRestos.Substring(0, vIndex)
+                        vArgumentoRestos = vArgumentoRestos.Remove(0, vIndex + 1)
+                    End If
+                End While
+            End If
+
+            Return VListaArgumentos
         End Function
 #End Region
     End Class

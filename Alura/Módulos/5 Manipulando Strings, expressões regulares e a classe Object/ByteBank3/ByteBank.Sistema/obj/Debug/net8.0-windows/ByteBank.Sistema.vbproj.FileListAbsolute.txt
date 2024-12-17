@@ -19,3 +19,15 @@ C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-wind
 C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.8B377B08.Up2Date
 C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.Sistema.Frm_Principal.resources
 C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.Sistema.Frm_Principal2.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.Sistema.Frm_Principal3.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.Sistema.Frm_URLs.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\obj\Debug\net8.0-windows\ByteBank.Sistema.Frm_PaginaWeb.resources
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\IMP-TI-04\source\repos\ByteBank3\ByteBank.Sistema\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
