@@ -44,6 +44,13 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Entender como gerar arquivos **XML de documentação** para o **Visual Studio** e outras ferramentas.
 
 - **5 Manipulando Strings, expressões regulares e a classe Object**  
+  Neste módulo, apresenta as técnicas e ferramentas disponíveis para manipular **strings** e usar **expressões regulares** no **VB.NET**. As principais abordagens incluem:  
+  - Aprenda a **manipular strings** no VB.NET.  
+  - Use os métodos **IndexOf**, **Substring**, **Contains** e outros da classe **String**.  
+  - Utilize **expressões regulares** para busca e validação de padrões complexos.  
+  - Conheça a classe **Regex** e seus principais métodos para trabalhar com **regex**.  
+  - Explore os métodos da classe **Object**, a classe base de todas as classes no VB.NET.  
+
 - **6 Arrays e Tipos Genéricos**  
 - **7 Collections**  
 - **8 Lambda Expressions, LINQ e Dataset**  
