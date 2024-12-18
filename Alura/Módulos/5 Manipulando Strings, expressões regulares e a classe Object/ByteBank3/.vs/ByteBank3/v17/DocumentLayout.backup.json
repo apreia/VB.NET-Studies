@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A99E9360-45F7-4740-AC15-2A639BB9139D}|ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj|c:\\users\\imp-ti-04\\source\\repos\\bytebank3\\bytebank.bibliotecas\\classes\\extrairvalordeargumentourl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{A99E9360-45F7-4740-AC15-2A639BB9139D}|ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj|solutionrelative:bytebank.bibliotecas\\classes\\extrairvalordeargumentourl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExtrairValorDeArgumentoUrl.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
-              "RelativeDocumentMoniker": "ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
-              "RelativeToolTip": "ByteBank.Bibliotecas\\Classes\\ExtrairValorDeArgumentoUrl.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-17T20:25:06.878Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

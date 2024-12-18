@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj": {}
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\5 Manipulando Strings, expressões regulares e a classe Object\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj": {
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\5 Manipulando Strings, expressões regulares e a classe Object\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj",
+        "projectUniqueName": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\5 Manipulando Strings, expressões regulares e a classe Object\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj",
         "projectName": "ByteBank.Bibliotecas",
-        "projectPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj",
+        "projectPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\5 Manipulando Strings, expressões regulares e a classe Object\\ByteBank3\\ByteBank.Bibliotecas\\ByteBank.Bibliotecas.vbproj",
         "packagesPath": "C:\\Users\\IMP-TI-04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IMP-TI-04\\source\\repos\\ByteBank3\\ByteBank.Bibliotecas\\obj\\",
+        "outputPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\5 Manipulando Strings, expressões regulares e a classe Object\\ByteBank3\\ByteBank.Bibliotecas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
