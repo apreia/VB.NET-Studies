@@ -52,6 +52,14 @@ Este repositório foi criado para acompanhar meu progresso nos cursos de **VB.NE
   - Explore os métodos da classe **Object**, a classe base de todas as classes no VB.NET.  
 
 - **6 Arrays e Tipos Genéricos**  
+  Neste módulo, apresenta o uso de **arrays**, listas dinâmicas e tipos genéricos para organizar e manipular coleções de dados de forma eficiente. As principais abordagens incluem:  
+  - Conheça os **arrays**.  
+  - Crie uma **lista dinâmica**.  
+  - Use **tipos genéricos**.  
+  - Aprenda como usar o argumento **ParamArray**.  
+  - Use **argumentos opcionais e nomeados**.  
+  - Crie **indexadores em classes**.
+
 - **7 Collections**  
 - **8 Lambda Expressions, LINQ e Dataset**  
 - **9 Entrada e saída (I/O) com streams**  
