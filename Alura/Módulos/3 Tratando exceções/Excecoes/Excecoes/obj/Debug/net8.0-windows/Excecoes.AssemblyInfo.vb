@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Excecoes"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee971e43f9944779d50d7d0ffc0b6da2b5607b3e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Excecoes"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Excecoes"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

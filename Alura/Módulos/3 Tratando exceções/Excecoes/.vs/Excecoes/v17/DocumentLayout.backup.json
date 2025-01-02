@@ -1,42 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\",
+  "WorkspaceRootPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\bytebank.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\bytebank.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\leitordearquivo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\leitordearquivo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\valorsacadomenorsaldoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\valorsacadomenorsaldoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\operacaofinanceiraexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\classes\\operacaofinanceiraexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\operacaofinanceiraexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\contacorrente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\classes\\valorsacadomenorsaldoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\valorsacadomenorsaldoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\classes\\contacorrente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\contacorrente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{8750E9D3-5850-4B3F-8C7D-6CD8B6302491}|Excecoes\\Excecoes.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\excecoes\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8750E9D3-5850-4B3F-8C7D-6CD8B6302491}|Excecoes\\Excecoes.vbproj|solutionrelative:excecoes\\frm_principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\source\\repos\\excecoes\\bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\classes\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|c:\\users\\imp-ti-04\\documents\\github\\vb.net-studies\\alura\\m\u00F3dulos\\3 tratando exce\u00E7\u00F5es\\excecoes\\bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0CFFB76F-8DC7-4624-B3C8-103BC6FC2795}|ByteBank\\ByteBank.vbproj|solutionrelative:bytebank\\frm_video05.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeitorDeArquivo.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\LeitorDeArquivo.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Classes\\LeitorDeArquivo.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\LeitorDeArquivo.vb",
-              "RelativeToolTip": "ByteBank\\Classes\\LeitorDeArquivo.vb",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-05T19:17:39.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OperacaoFinanceiraException.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\OperacaoFinanceiraException.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Classes\\OperacaoFinanceiraException.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\OperacaoFinanceiraException.vb",
-              "RelativeToolTip": "ByteBank\\Classes\\OperacaoFinanceiraException.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-05T19:06:59.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frm_Video05.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
-              "RelativeToolTip": "ByteBank\\Frm_Video05.vb",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-03T20:07:59.865Z",
+              "DocumentIndex": 0,
+              "Title": "ByteBank",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\ByteBank.vbproj",
+              "RelativeDocumentMoniker": "ByteBank\\ByteBank.vbproj",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\ByteBank.vbproj",
+              "RelativeToolTip": "ByteBank\\ByteBank.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-26T20:21:59.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ValorSacadoMenorSaldoException.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
-              "RelativeToolTip": "ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-04T19:19:53.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ContaCorrente.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
               "RelativeDocumentMoniker": "ByteBank\\Classes\\ContaCorrente.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\ContaCorrente.vb",
               "RelativeToolTip": "ByteBank\\Classes\\ContaCorrente.vb",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAjwHAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAjwHAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-29T20:05:33.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\Cliente.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Classes\\Cliente.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Classes\\Cliente.vb",
-              "RelativeToolTip": "ByteBank\\Classes\\Cliente.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-29T20:02:28.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Frm_Principal.vb",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Frm_Principal.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
-              "RelativeToolTip": "ByteBank\\Frm_Principal.vb",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAlwIkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-29T20:00:10.68Z",
+              "WhenOpened": "2024-12-26T20:15:48.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Frm_Principal.vb [Projeto]",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Frm_Principal.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Principal.vb [Projeto]",
-              "RelativeToolTip": "ByteBank\\Frm_Principal.vb [Projeto]",
+              "Title": "ValorSacadoMenorSaldoException.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
+              "RelativeToolTip": "ByteBank\\Classes\\ValorSacadoMenorSaldoException.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-29T19:59:04.866Z",
+              "WhenOpened": "2024-12-26T20:15:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Video05.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeToolTip": "ByteBank\\Frm_Video05.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:14:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperacaoFinanceiraException.vb",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\OperacaoFinanceiraException.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Classes\\OperacaoFinanceiraException.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Classes\\OperacaoFinanceiraException.vb",
+              "RelativeToolTip": "ByteBank\\Classes\\OperacaoFinanceiraException.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:13:41.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Video05.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Frm_Video05.vb",
+              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\ByteBank\\Frm_Video05.vb [Projeto]",
+              "RelativeToolTip": "ByteBank\\Frm_Video05.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:13:30.946Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Frm_Video05.vb [Projeto]",
-              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb",
-              "RelativeDocumentMoniker": "ByteBank\\Frm_Video05.vb",
-              "ToolTip": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\Frm_Video05.vb [Projeto]",
-              "RelativeToolTip": "ByteBank\\Frm_Video05.vb [Projeto]",
+              "DocumentIndex": 5,
+              "Title": "Frm_Principal.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\Excecoes\\Frm_Principal.vb",
+              "RelativeDocumentMoniker": "Excecoes\\Frm_Principal.vb",
+              "ToolTip": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\M\u00F3dulos\\3 Tratando exce\u00E7\u00F5es\\Excecoes\\Excecoes\\Frm_Principal.vb [Projeto]",
+              "RelativeToolTip": "Excecoes\\Frm_Principal.vb [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-03T20:07:09.57Z",
+              "WhenOpened": "2024-12-26T20:13:12.509Z",
               "EditorCaption": " [Projeto]"
             }
           ]

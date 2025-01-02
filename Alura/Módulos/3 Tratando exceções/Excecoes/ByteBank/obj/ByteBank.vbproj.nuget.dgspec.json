@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\ByteBank.vbproj": {}
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\3 Tratando exceções\\Excecoes\\ByteBank\\ByteBank.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\ByteBank.vbproj": {
+    "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\3 Tratando exceções\\Excecoes\\ByteBank\\ByteBank.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\ByteBank.vbproj",
+        "projectUniqueName": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\3 Tratando exceções\\Excecoes\\ByteBank\\ByteBank.vbproj",
         "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\ByteBank.vbproj",
+        "projectPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\3 Tratando exceções\\Excecoes\\ByteBank\\ByteBank.vbproj",
         "packagesPath": "C:\\Users\\IMP-TI-04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IMP-TI-04\\source\\repos\\Excecoes\\ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\IMP-TI-04\\Documents\\GitHub\\VB.NET-Studies\\Alura\\Módulos\\3 Tratando exceções\\Excecoes\\ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

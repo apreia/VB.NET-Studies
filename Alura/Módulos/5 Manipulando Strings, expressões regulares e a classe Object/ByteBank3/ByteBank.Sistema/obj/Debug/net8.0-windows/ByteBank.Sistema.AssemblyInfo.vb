@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ByteBank.Sistema"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3467796de0dab67fd6ac7590f3b9173d5b290c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee971e43f9944779d50d7d0ffc0b6da2b5607b3e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ByteBank.Sistema"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ByteBank.Sistema"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
