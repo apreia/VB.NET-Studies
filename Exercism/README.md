@@ -327,7 +327,7 @@ Este repositório tem como principais objetivos:
 > Implemente o Jogo da Vida de Conway.
 
 ### 🔹 **Exercício 103: Bottle Song**
-> Produza a letra da popular canção infantil reptitiva: Dez Garrafas Verdes.
+> Produza a letra da popular canção infantil repetitiva: Dez Garrafas Verdes.
 
 ---
 
