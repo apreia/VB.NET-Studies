@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\bin\Debug\net8.0\102 - Conway´s Game of Life.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\bin\Debug\net8.0\102 - Conway´s Game of Life.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\bin\Debug\net8.0\102 - Conway´s Game of Life.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\bin\Debug\net8.0\102 - Conway´s Game of Life.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\bin\Debug\net8.0\102 - Conway´s Game of Life.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\refint\102 - Conway´s Game of Life.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\102 - Conway´s Game of Life.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\102 - Conway´s Game of Life\obj\Debug\net8.0\ref\102 - Conway´s Game of Life.dll

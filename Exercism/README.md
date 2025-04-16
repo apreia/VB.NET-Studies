@@ -320,6 +320,15 @@ Este repositório tem como principais objetivos:
 ### 🔹 **Exercício 100: Armstrong Numbers**
 > Determine se um número é um número de Armstrong.
 
+### 🔹 **Exercício 101: Eliud´s Eggs**
+> Conte o número de ovos no galinheiro contando o número de bits 1 em ma representação binária.
+
+### 🔹 **Exercício 102: Conway´s Game of Life**
+> Implemente o Jogo da Vida de Conway.
+
+### 🔹 **Exercício 102: 103 - Bottle Song**
+> 
+
 ---
 
 ## 📁 Estrutura do Repositório
@@ -327,10 +336,9 @@ Este repositório tem como principais objetivos:
 O repositório está organizado da seguinte forma:
 - Cada exercício possui seu próprio diretório.
 - Dentro de cada diretório, estão os arquivos `.vb` contendo:
-  - A solução do exercício.
-  - Os testes (se aplicáveis).
+  - A solução do exercício (Module1).
+  - Os testes (Program).
 
 ---
-
 
 💡 **Sinta-se à vontade para explorar, contribuir e compartilhar!**

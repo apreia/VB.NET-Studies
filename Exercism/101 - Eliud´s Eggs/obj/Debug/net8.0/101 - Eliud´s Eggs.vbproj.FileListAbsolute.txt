@@ -1,0 +1,14 @@
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\bin\Debug\net8.0\101 - Eliud´s Eggs.exe
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\bin\Debug\net8.0\101 - Eliud´s Eggs.deps.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\bin\Debug\net8.0\101 - Eliud´s Eggs.runtimeconfig.json
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\bin\Debug\net8.0\101 - Eliud´s Eggs.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\bin\Debug\net8.0\101 - Eliud´s Eggs.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.AssemblyInfoInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.AssemblyInfo.vb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.vbproj.CoreCompileInputs.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\refint\101 - Eliud´s Eggs.dll
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.pdb
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\101 - Eliud´s Eggs.genruntimeconfig.cache
+C:\Users\IMP-TI-04\source\repos\Exercícios Exercism\101 - Eliud´s Eggs\obj\Debug\net8.0\ref\101 - Eliud´s Eggs.dll
